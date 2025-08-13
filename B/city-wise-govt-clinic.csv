@@ -1,0 +1,570 @@
+CityCode,ClinicCenterCode,Category,DoctorCount,Latitude,Longitude,ClinicName,CityName,ClinicNumber,ClinicCenterAddress
+10,AH01,Allopathy,4,23.03560077,72.56946002,NA,Ahmedabad,079-26577393,"1st Floor, S.R.House, Opp. Mount Carmel School, Ashram Road, Ahmedabad-380009"
+10,AH02,Allopathy,2,23.012685,"72.523626
+                                        ",NA,Ahmedabad,079-25693262,"Room no.1,2 and 3 (Ground floor), Aayakar Bhawan, 100 Feet Anand nagar Road, Vejalpur, Ahmedabad-380015"
+10,AH04,Allopathy,4,23.067056,"72.555033
+                                        ",NA,Ahmedabad,079-27478393,"Govt Qtr No. M/49/289-290, Near sindur party plot, Pragatinagar road, Pragatinagar Ahmedabad -380013"
+10,AH06,Allopathy,0,23.03560077,72.56946002,NA,Ahmedabad,079-26577393,"3rd  Floor, S.R.House, Opp. Mount Carmel School, Ashram Road, Ahmedabad- 380009"
+10,AH09,Allopathy,3,22.998966,72.601363,NA,Ahmedabad,079-25467055,"2nd Floor, Business Square, Opp. Punjab National Bank"
+10,VDA,Allopathy,2,22.302678,"73.224506
+                                        ",NA,Ahmedabad,0265-2415555,"Panigate Telephone exchange Compound, Ground floor, Nr. Water Tank, Ajwa Road, Panigate, Vadodara-390019"
+11,AL02,Allopathy,1,25.46676645,81.82670927,NA,Prayagraj,0532-2624435,"4/6, Drummond, Allahabad"
+11,AL07,Allopathy,1,25.39966906,81.86945473,NA,Prayagraj,0532-2697132,"236/101-C /1 Chok Daud Nagar Near Swadeshi Cotton Mills, Naini, Allahabad"
+11,ALH1,Homeopathy,1,25.44975366,81.83101744,NA,Prayagraj,0532-2561310,"2nd Floor, Sangam Place, Civil Lines, Prayagraj-211001"
+12,BA04,Allopathy,3,13.02605547,77.62687938,NA,Bengaluru,080 25430759,"No. 669, HBR Main Road 1st stage, 2nd Block, HBR Layout, Bangalore 560023"
+12,BA06,Allopathy,4,12.94532594,77.5782434,NA,Bengaluru,080 26570202,"No. 190, R. V. Road, 2nd Block, Jayanagar, Bangalore-5600011"
+12,BA10,Allopathy,4,12.99048902,77.66185566,NA,Bengaluru,080 25243236,"DRDO Complex, C.V. Raman Nagar, Bangalore-560093"
+12,BA13,Ayurveda,2,12.96364181,77.63971102,NA,Bengaluru,080 25355662,"First Floor, Community Center GPRA Quarters Domlur 560071"
+13,BP1,Allopathy,2,23.24226523,77.42385078,NA,Bhopal,0755 - 2765071,"First floor, CGHS Bhawan, Plot No. 23, Arera Hills, Near Meteorological Department, 
+ Bhopal (M.P) - 462027"
+14,BH1,Allopathy,5,20.28357518,85.83014607,NA,Bhubaneswar,"0674-2393612
+0674-2393312
+","O/o The MO I/c, WC-1, CGHS,  Unit IV, Old AG Colony, Bhubaneswar -751001, Odisha"
+15,CPK1,Allopathy,2,30.69436858,76.83789529,NA,Chandigarh,"0172-2990711
+9417149057","CGHS WC-1, BSNL telephone Exchange Building, Sec- 16, Panchkula- 134109"
+16,CH04,Allopathy,1,13.05129325,80.26475556,NA,Chennai,044-23458404,"No 1, 1st Street, Gopalapuram, Chennai"
+16,CH05,Allopathy,3,13.01055092,80.22192017,NA,Chennai,044-23458405,Block No 6/1-5 Bcg Staff Quarters Guindy 
+16,CH09,Allopathy,1,13.0659918,80.24749067,NA,Chennai,044-23458409,C&B Block 1st Floor Shastri Bhavan Haddows Rd
+16,CH18,Siddha,1,13.08914158,80.20448887,NA,Chennai,044-23458402,Central Revenue Qtr No 15 Ranganathan Garden Anna Nagar
+16,CH20,Siddha,1,13.03690924,80.20790932,NA,Chennai,044-23458406,CPWD Quarters Kk Nagar Chennai 600078
+18,AY63,Ayurveda,3,28.55537724,77.2271222,NA,DELHI/HQ/DIRECTORATE/MINISTRY,011-26263767,"HS Wellness Centre, Sadiq Nagar Sec-3 (Near G.K.I)"
+18,AY65,Ayurveda,2,28.52322179,77.21947297,NA,DELHI/HQ/DIRECTORATE/MINISTRY,011-29564988,"CGHS Wellness Centre Building, Sector  1, M.B. Road"
+18,D1,Allopathy,5,28.63427673,77.20299517,NA,DELHI/HQ/DIRECTORATE/MINISTRY,23743810  21400889,"CGHS Building, DIZ Area-II, Gole Market"
+18,D102,Allopathy,5,28.61724724,77.2997179,NA,DELHI/HQ/DIRECTORATE/MINISTRY,"011-21200691
+011-21200692","Ground floor Commnity Hall, EDMC Community Center , Pocket-F, Ward No. 219, Mayur Vihar-II"
+18,D104,Allopathy,4,28.41431809,77.32235574,NA,DELHI/HQ/DIRECTORATE/MINISTRY,0129-2987500,"Zila Sainik Board, Old Army Canteen, Sector-16"
+18,D106,Allopathy,3,28.65488438,77.40947044,NA,DELHI/HQ/DIRECTORATE/MINISTRY,0120- 4962215,"G79, Sector-11, Pratap Vihar"
+18,D32,Allopathy,7,28.60997983,77.19872336,NA,DELHI/HQ/DIRECTORATE/MINISTRY,"23013490   , 21410364","153, South Avenue"
+18,D37,Allopathy,6,28.56439684,77.25624697,NA,DELHI/HQ/DIRECTORATE/MINISTRY,26910251,"CGHS  Disp. Building, Srinivaspuri"
+18,D52,Allopathy,6,28.57174965,77.16701221,NA,DELHI/HQ/DIRECTORATE/MINISTRY,26173988,"CGHS Disp. Building, Sector -VIII, R.K. Puram."
+18,D53,Allopathy,5,28.64563875,77.11230518,NA,DELHI/HQ/DIRECTORATE/MINISTRY,25171213,"BA Block, NEAR TAGORE BUS STAND/METRO STATION, TATTARPUR DELHI"
+18,D68,Allopathy,5,28.67200328,77.48996746,NA,DELHI/HQ/DIRECTORATE/MINISTRY,0120-2986968,"CGHS Building, Kamla Nehru Nagar"
+18,D75,Allopathy,5,28.53133368,77.25181664,NA,DELHI/HQ/DIRECTORATE/MINISTRY,26028746,"CGHS Wellness Centre, Community Centre, Plot No : 5 & 6, Alaknanda (Near Muthoot Finance Building)"
+18,D81,Allopathy,5,28.69256202,77.11517203,NA,DELHI/HQ/DIRECTORATE/MINISTRY,27011222,"House No. 1 CGHS Building Parwana Road , Saraswati Vihar, Pitampura (Near Ashutosh Maharaj Ashram)"
+18,D87,Allopathy,6,28.68106772,77.3139629,NA,DELHI/HQ/DIRECTORATE/MINISTRY,011-22596489,"Pocket-B, Near Sarvodaya Vidyalaya, Dilshad Garden"
+18,D88,Allopathy,3,28.70814852,77.15395378,NA,DELHI/HQ/DIRECTORATE/MINISTRY,27486048,"BP Block, Shalimar Bagh ,(Near Maharishi Ayurvedic Hospital)"
+18,D90,Allopathy,4,28.54139566,77.29882531,NA,DELHI/HQ/DIRECTORATE/MINISTRY,26940651,"Plot No 11, Sarita Vihar, Institutional Area, Near Telephone Exchange"
+18,D92,Allopathy,8,28.42726603,77.11023171,NA,DELHI/HQ/DIRECTORATE/MINISTRY,0124-2578235,"Opposite HUDA Market, Sector-55"
+18,D94,Allopathy,5,28.68561302,77.3525868,NA,DELHI/HQ/DIRECTORATE/MINISTRY,0120-2630066,"6/16, Sector 2, New Rajender Nagar, Sahibabad"
+18,FAPNB,Allopathy,3,28.6110225,77.2153972,NA,DELHI/HQ/DIRECTORATE/MINISTRY,23063848,"First Aid Post, Nirman Bhawan, Maulana Azad Road"
+18,FAPVBP,Allopathy,2,28.62102599,77.21324381,NA,DELHI/HQ/DIRECTORATE/MINISTRY,"23736264 ,23716399, 21400884",Vithal Bhai Patel House
+18,HO68,Homeopathy,2,28.67288634,77.49579373,NA,DELHI/HQ/DIRECTORATE/MINISTRY,0120-2986968,"CGHS Building, second floor, Kamla Nehru Nagar"
+18,HO69,Homeopathy,3,28.55467727,77.17924625,NA,DELHI/HQ/DIRECTORATE/MINISTRY,011-26173911,"CGHS, Qr No. 739 R. K. Puram Sect. 3 "
+18,HO76,Homeopathy,3,28.63073905,77.19993098,NA,DELHI/HQ/DIRECTORATE/MINISTRY,23364574,"CGHS building, Kalibari Marg"
+18,,Allopathy,1,,,NA,DELHI/HQ/DIRECTORATE/MINISTRY,9312901213,
+19,AZ1,Allopathy,1,23.72126669,92.71342577,NA,Guwahati,"0389 - 2334764
+","Qtr. No. AIS(1)/C-SD/5 (Double Suit) , AIS Transit Residential Complex, New Secretariat Building, Khatla, Aizawl-796001
+"
+19,GK1,Allopathy,1,27.34531205,88.60688479,NA,Guwahati,"0359-2284041
+","1st Floor, Kludong Khim, H/o Mr T.T. Lachungpa, Opp. DAC(East), Upper Schey, Doctor B.R. Ambedkar Road East Sikkim-737101"
+19,GK2H,Homeopathy,1,27.34531205,88.60688479,NA,Guwahati,"0359-2284041
+","1st Floor, Kludong Khim, H/o Mr T.T. Lachungpa, Opp. DAC(East), Upper Schey, Doctor B.R. Ambedkar Road East Sikkim-737101"
+19,GT4,Allopathy,2,26.18605524,91.74560723,NA,Guwahati,"0361-2540551
+","CGHS WC No.4, In front of Don Bosco School, In front of Don Bosco School, Panbazar, Guwahati-781001"
+19,SCH1,Allopathy,1,24.83236164,92.79808551,NA,Guwahati,0384 2291610,"Quarter No.D2 & D3 (Behind POPSK), Cachar Postal Divisional Premises, 
+Silchar(O/o the Superintendent of Post Offices Premises, Cachar Division), Silchar- 788001"
+20,HY12,Allopathy,6,17.36390912,78.58507219,NA,Hyderabad,040-29885333,Type IV D 17 to D 20 GPRA GSUI Campus Bandlaguda Hyderabad 500068
+20,HY13,Allopathy,6,17.40226959,78.5580938,NA,Hyderabad,040-27209223,"User Interaction Window Complex (UIWC) Survey of India Campus, Beside
+Union Bank of India, Uppal, Hyderabad 500039"
+20,HY15,Allopathy,4,17.40722787,78.46693192,NA,Hyderabad,040-29560561,"AG'S Office Compound, Saifabad, Hyderabad -500004"
+20,HYV2,Allopathy,3,17.71951305,83.30270617,NA,Hyderabad,0891-2546366,"MO I/C, CGHS W.C., Visakhapatnam, Upstairs Dabagardens Post Office,Dabagardens Sub-PO, Visakhapatnam-530020."
+20,NEL1,Allopathy,2,14.4421135,79.96951371,NA,Hyderabad,0861-2326685,"CGHS WELLNESS CENTER, E1Ground floor type V BSNL staff quarters 
+Batwadipalem,  beside new district police office, 
+Dargamitta 
+Nellore Andhra Pradesh 524003"
+20,VAY1,Ayurveda,1,17.72875996,83.33459217,NA,Hyderabad,0891-2556673,"Door No. 8-5-1, Govt.Mental Care Hospital premises Chinawaltair,Visakhapatnam -530017, Andhra Pradesh"
+21,JBH1,Homeopathy,1,23.16180618,79.95530791,NA,Jabalpur,0761-2629460,"Head Post Office Compound, Jabalpur-482001, Madhya Pradesh"
+22,JA6,Allopathy,5,26.84616938,75.82226044,NA,Jaipur,0141-2755732,"G.S.I. Colony, Malviya Nagar, Jaipur"
+23,KN2,Allopathy,2,26.47097667,80.31962773,NA,Kanpur,0512-2542379,"110/58, R.K. Nagar, Kanpur-208012"
+23,KN6,Allopathy,5,26.42183539,80.36156231,NA,Kanpur,0512-2978033," 430, C Block, Shyam Nagar , Kanpur"
+23,KN7,Allopathy,4,26.47991139,80.29876477,NA,Kanpur,0512-2220455,"TYPE-1-8 Quarters RLI Campus Sarvoday Nagar, Kanpur 208005"
+24,KO16,Allopathy,3,22.59222402,88.4053375,NA,Kolkata,23344849,"Qtrs No. 81 & 82, Type C, Kolkata 700064"
+24,KO2,Allopathy,2,22.5144741,88.35807744,NA,Kolkata,033-24661733,"Lake Govt. Qrts. Fl No.55 and 56 Southern Ave., Kolkata -7000029
+ (Near Kamala Girl's School/ Vivekananda Park)"
+24,KO22,Unani,1,22.57129559,88.41659896,NA,Kolkata,23352801,"IC Block, CGHS Complex Salt Lake, Kolkata -700106 (Near Tank No.14)"
+25,LK4,Allopathy,3,26.84366838,80.885169,NA,Lucknow,0522-2419756,"C- 3335, Meena Bakery Road Rajajipuram, Lucknow 226017"
+26,MBD1,Allopathy,2,28.84215468,78.7705619,NA,Meerut,0591-2412020,"CGHS Wellness Center, Head Post Office, near Moradabad Jail, Moradabad - 244001"
+26,MR3,Allopathy,2,28.99582745,77.711822,NA,Meerut,0121-2640074,"154, Western Kutchery Road, Vijay Nagar, Meerut"
+26,MR4,Allopathy,4,29.02993045,77.68401719,NA,Meerut,0121-2556394,"Shradhapuri, Kanker Khera, Meerut Cantt."
+26,MR5,Allopathy,4,28.9746435,77.7208726,NA,Meerut,0121-2763159,"Swasthya Bhawan, S.K. Road, Meerut"
+27,MU1,Allopathy,8,18.93986693,72.8277536,NA,Mumbai,022-22018799,Old CGO Building
+27,MU12,Allopathy,7,19.21437948,73.18581245,NA,Mumbai,0251-2600858,"Old primary School, Ordinance  Estate, Ambarnath,  Thane 421502"
+27,MU2,Allopathy,2,18.97321857,72.81009618,NA,Mumbai,022-23516680,"Income Tax Flats, No. D-1  Pedder Road, Mumbai - 400 026"
+27,MU23,Allopathy,2,18.99466613,72.84380735,NA,Mumbai,022-24187276,"Govt. Mint Colony, Bldg No.20 Flat No. 41-43, Saibaba Marg, Mint Staff Qtrs, Parel, Mumbai-400012
+"
+27,MU25,Allopathy,2,19.23208235,72.82992293,NA,Mumbai,022-45163787,"F1 upper and lower Metro Staff Quarters for Aakashwani & Doordarshan, Gorai Rd, opp. Gorai Depot, Gorai 1, Borivali, Mumbai,"
+27,MU5,Allopathy,8,19.10384738,72.85739965,NA,Mumbai,022-28210971,"Near Airport colony, Bamanawada, Santacruz (w),Mumbai-400029"
+27,MU6,Allopathy,6,19.09061606,72.90999591,NA,Mumbai,022-25149229,"Flat No.25, Central Govt. Quarters, Ghatkopar, Mumbai -400086"
+27,MUA2,Ayurveda,2,19.02827782,72.86792697,NA,Mumbai,022-24015758,"Shaikh Mistry, S.M. Plot,Kolowada, Mumbai - 400037"
+27,MUH1,Homeopathy,1,18.93986693,72.8277536,NA,Mumbai,022-22018799,"Old CGO Building (PratishthaBhawan), Ground Floor, South Wing, 101,
+M.K. Road, New Marine Lines, Mumbai 400020"
+28,NADT,Allopathy,2,21.17693958,79.08333828,NA,Nagpur,0712-2322918,"NADT Campus, Near Pagal Khana Chowk, Nagpur- 440030."
+28,NP3,Allopathy,2,21.17440462,79.1006145,NA,Nagpur,0712- 2980828,"Near Jaswant Takij, Indora Chowk, Nagpur- 440026"
+28,NP6,Allopathy,4,21.13471617,79.05669828,NA,Nagpur,0712-2249781,"Himalaya Meridian Aptt, Opp LAD College, Shivaji Nagar, Nagpur- 440010"
+29,GAY1,Allopathy,1,24.78597054,84.98805303,NA,Patna,0631-2222257,"CGHS W.C., SSPO Office, Near V.C. Residance AP Coloney, Gaya- 823001"
+29,PA1,Allopathy,5,25.60772016,85.13358019,NA,Patna,0612-2950017,"Budhmarg,  Patna-800001"
+29,PA3,Allopathy,5,25.62913646,85.08453381,NA,Patna,0612-2950298,"Central Revenue Colony, Salimpur Dumra, Ashiana Nagar, Patna"
+29,PA7,Ayurveda,2,25.6024297,85.15492173,NA,Patna,0612-2351484,"G-3, People's Cooperative Colony, Kankarbagh, Patna-800020"
+30,PU01,Allopathy,3,18.65205005,73.76539808,NA,Pune,020-27640130,"GPRA QuarterNo.4/182,Central Govt. Colony"
+30,PU03,Allopathy,2,18.50520792,73.874537,NA,Pune,020-26455163,"Chitragupta Complex, Hidayatullah Road, Pune-411 042."
+30,PU09,Allopathy,2,18.53234771,73.87905793,NA,Pune,020-26360020,"6, G.T.Road, Pune-411 001"
+31,HO1,Homeopathy,1,23.34398609,85.31845054,NA,Ranchi,0651-2481901,"New A.G. Colony Doranda, Ranchi, Jharkhand"
+32,AG2,Homeopathy,1,23.82837235,91.292232,NA,Shillong,,"C/o (Prof.) Arunoday Saha, Lake View Road, Shiv Nagar, College Road, Agartala, Tripura West-793004."
+32,SH1,Allopathy,3,25.57176507,91.89595033,NA,Shillong,0364-2501569,"CGHS Wellness Centre No.1, Laitumkhrah, Shillong - 793003, Meghalaya"
+33,COH1,Allopathy,2,9.975109183,76.29539164,NA,Trivandrum,0484- 2954646,"O/o CMO I/C, E-01/ Type V, BSNL quarters,  Near Gandhi Nagar Fire station,  Ernakulam : 682 020"
+33,TR5,Homeopathy,1,8.513531718,76.97451377,NA,Trivandrum,0471-2728110,"O/o CMO I/C, TC 9/1580,  ""Mangalya"" Hospital Road, Sasthamangalam Trivandrum-695010"
+10,AH10,Allopathy,2,23.022499,"72.474210
+                                        ",NA,Ahmedabad,02717-243144,"AG Govt. Quarters,Block No A(1), QuarterSN 1  B/H Sun City, S P ring road, Bopal,Ahmedabad- 380058     "
+10,AHH1,Homeopathy,1,23.03560077,72.56946002,NA,Ahmedabad,079-26577393,"3rd  Floor, S.R.House, Opp. Mount Carmel School, Ashram Road, Ahmedabad- 380009"
+10,AHH7,Homeopathy,1,23.209037,"72.648779
+                                        ",NA,Ahmedabad,079-23243433,"1st Floor, A 713/1-2, Sec-8, CH-1, Near Post Office, Gandhinagar-382007"
+11,AL01,Allopathy,1,25.45530715,81.86300437,NA,Prayagraj,0532-2468188,"41, Jawahar Lal Nehru Road, Allahabad"
+12,BA11,Allopathy,2,12.9807283,77.60327931,NA,Bengaluru,080 25589225,"3rd Floor, Ganesh Towers, Infantry Road, Bangalore 560001"
+12,BA14,Homeopathy,2,12.9807283,77.60327931,NA,Bengaluru,080 25588777,"2nd Floor, Ganesh Towers, Infantry Road, Bangalore 560001"
+12,BA15,Unani,1,12.9807283,77.60327931,NA,Bengaluru,080 25588777,"2nd Floor, Ganesh Towers, Infantry Road, Bangalore 560001"
+12,BMS1,Allopathy,1,12.31744194,76.69202079,NA,Bengaluru,0821 2590080,"No. 10, Dr. Rajkumar Main Road, Shakthi Nagar, Mysuru-570029"
+14,BH3,Allopathy,2,20.27208951,85.83572424,NA,Bhubaneswar,"(0674-2535172
+","O/o the MO I/C WC-3, Back side of CPMG, Kharvel Nagar, Bhubaneswar, 751001"
+14,BHH1,Homeopathy,1,20.28357518,85.83014607,NA,Bhubaneswar,9836939173,"Unit IV, Old AG Colony, Bhubaneswar- 751001, Odisha"
+15,AMB1,Allopathy,3,30.33226883,76.83290046,NA,Chandigarh,"0171-2610711, 9412650790","CGHS Wellness Center P & T Colony, Near Railway Hospital Ambala-133001"
+15,CGAY1,Ayurveda,1,30.69436858,76.83789529,NA,Chandigarh,,"CGHS Ayurvedic Wellness Centre-1 (Chandigarh), First floor, BSNL Telephone Exchange Building, Scetor - 16 Panchkula  - 134109"
+16,CH02,Allopathy,8,13.08914158,80.20448887,NA,Chennai,044-23458402,"Central Revenue Qtr No 15, Ranganathan Garden Anna Nagar"
+16,CH03,Allopathy,8,13.1241044,80.1130779,NA,Chennai,044-23458403,"Heavy Vehicles Factory Complex,  Avadi "
+16,CH06,Allopathy,10,13.03690924,80.20790932,NA,Chennai,044-23458406,Cpwd Quarters Kk Nagar Chennai 600078
+16,CH07,Allopathy,6,12.98101461,80.17638063,NA,Chennai,044-23458407,DGQA Complex Meenambakkam Chennai 
+16,CH15,Ayurveda,1,13.01055092,80.22192017,NA,Chennai,044-23458405,Block No 6/1-5 Bcg Staff Quarters Guindy
+16,CHC1,Allopathy,2,10.99879017,76.9669856,NA,Chennai,0422-2390015,"CGHAS Coimbatore, A Block (CTMX) Central telephone Exchange Building, State Bank Road Coimbatore 641018"
+16,PD1,Allopathy,2,11.93965839,79.7962622,NA,Chennai,0413-2277581,IGMC&RI KADIRKAMAM PUDUCHERRY 605009
+16,TRN1,Allopathy,2,8.72850318,77.70468858,NA,Chennai,0462-2970280,SN High Road Post Office Compound Tirunelveli - 627001
+18,APHA,Ayurveda,0,0,0,NA,DELHI/HQ/DIRECTORATE/MINISTRY,9312901213,"Parliament House annexe, Sansad marg area, New Delhi"
+18,AY19,Ayurveda,2,28.65878377,77.18731974,NA,DELHI/HQ/DIRECTORATE/MINISTRY,28720275,"Quarter No 224, Second Floor, H2 Block,  CPWD Multistorey Government Quarters ( Behind Liberty Cinema),Dev Nagar"
+18,AY60,Ayurveda,3,28.69969222,77.20152047,NA,DELHI/HQ/DIRECTORATE/MINISTRY,011-27459411,"CGHS Wellness Centre KWC, New Police Line, Kingsway Camp"
+18,AY68,Ayurveda,1,28.67200328,77.48996746,NA,DELHI/HQ/DIRECTORATE/MINISTRY,0120-2986969,"2nd Floor CGHS Building, Kamla Nehru Nagar"
+18,AY73,Ayurveda,2,28.48227352,77.02017606,NA,DELHI/HQ/DIRECTORATE/MINISTRY,0124-4064496,"409 ,Sector-5 Gurgaon"
+18,D10,Allopathy,7,28.58271662,77.22516991,NA,DELHI/HQ/DIRECTORATE/MINISTRY,24611442,"Block 4-1, 3, 5, 7, Lodhi Road"
+18,D101,Allopathy,7,28.62854465,77.30425425,NA,DELHI/HQ/DIRECTORATE/MINISTRY,"011-21210225
+011-21210226","CGHS W.C., Opposite Batala Apartment,  I P Extension, Parparganj"
+18,D24,Allopathy,3,28.57782944,77.22462753,NA,DELHI/HQ/DIRECTORATE/MINISTRY,24622867,"CGHS Polyclinic, Kasturba Nagar"
+18,D26,Allopathy,5,28.63952794,77.09827469,NA,DELHI/HQ/DIRECTORATE/MINISTRY,25998900,Near Subzi Mandi Tilak Nagar
+18,D27,Allopathy,3,28.62169272,77.20104217,NA,DELHI/HQ/DIRECTORATE/MINISTRY,"23094777 ,23092990","CGHS Wellness Centre Wing, President Estate"
+18,D35,Allopathy,0,,                                                  ,NA,DELHI/HQ/DIRECTORATE/MINISTRY,9312901213,
+18,D38,Allopathy,5,28.65137619,77.16675544,NA,DELHI/HQ/DIRECTORATE/MINISTRY,25882551,"15/23,24 Basement, West Patel Nagar"
+18,D40,Allopathy,4,28.58239077,77.24545523,NA,DELHI/HQ/DIRECTORATE/MINISTRY,24312213,"Q.No.46, 48, 50, 52, 56, Block No. 8  Jangpura"
+18,D47,Allopathy,5,28.55068504,77.20179175,NA,DELHI/HQ/DIRECTORATE/MINISTRY,26567844,"CGHS Dispensary Building, Hauz Khas, SDA"
+18,D48,Allopathy,6,28.62489291,77.10427167,NA,DELHI/HQ/DIRECTORATE/MINISTRY,28125518,"CGHS Hari Nagar, Near DTC Depot, Hari Nagar"
+18,D56,Allopathy,5,28.65902117,77.28435647,NA,DELHI/HQ/DIRECTORATE/MINISTRY,011-21210366,"F3/23,Krishna Nagar(Near Vijay Chowk)"
+18,D58,Allopathy,4,28.60893299,77.10651256,NA,DELHI/HQ/DIRECTORATE/MINISTRY,28521863,"Nangal Raya, D-Block, Janak Puri,  Near Bhagat Hospital."
+18,D64,Allopathy,3,28.6745368,77.16035411,NA,DELHI/HQ/DIRECTORATE/MINISTRY,27385025,"H.No- 564, Gali No. 37, Onkar Nagar Tri Nagar Near Lal Mandir"
+18,D71,Allopathy,4,,                                                  ,NA,DELHI/HQ/DIRECTORATE/MINISTRY,26741983,"DDA Flat, JNU Campus, Munirka"
+18,D72,Allopathy,5,28.57686935,77.22632003,NA,DELHI/HQ/DIRECTORATE/MINISTRY,24622736,"R. 525,526,529, 530, 533 Kasturba Nagar"
+18,D73,Allopathy,7,28.48227352,77.02017606,NA,DELHI/HQ/DIRECTORATE/MINISTRY,0124-4064496,"Plot-556,opposite House no-409, near Huda ground , Sector-5"
+18,D8,Allopathy,3,28.65772617,77.23527373,NA,DELHI/HQ/DIRECTORATE/MINISTRY,011-23866292,"Near Moti Cinema, Chandni Chowk"
+18,D83,Allopathy,5,28.58899602,77.23176517,NA,DELHI/HQ/DIRECTORATE/MINISTRY,"24361522, 24367843","C.P.W.D. Complex, Pragati Vihar"
+18,D9,Allopathy,4,28.58275082,77.21996992,NA,DELHI/HQ/DIRECTORATE/MINISTRY,24611538,"Ground Floor, CGHS Ayurveda Hospital, CGHS Building, Aliganj, New Delhi-110003"
+18,D96,Allopathy,4,28.5548155,77.16297389,NA,DELHI/HQ/DIRECTORATE/MINISTRY,20867589,"New CGHS Building (Near Mother dairy booth)  CPWD Colony, Vasant Vihar"
+18,FAPPH,Allopathy,2,,                                                  ,NA,DELHI/HQ/DIRECTORATE/MINISTRY,23017275,"First Aid Post, 8, Parliament House"
+18,HO32,Homeopathy,2,28.61013937,77.19891864,NA,DELHI/HQ/DIRECTORATE/MINISTRY,23017698,"123 South Avenue, New Delhi"
+18,HO48,Homeopathy,2,28.62489291,77.10427167,NA,DELHI/HQ/DIRECTORATE/MINISTRY,28125518,"First Floor, Hari Nagar Allopathic WC , Near Hari Nagar DTC Depot, Hari Nagar"
+18,HO78,Homeopathy,3,28.52397295,77.22736817,NA,DELHI/HQ/DIRECTORATE/MINISTRY,011-29563193,"A-B/ 125,126,127  Sector-IV , Pusp Vihar"
+18,PHA,Allopathy,28,,                                                  ,NA,DELHI/HQ/DIRECTORATE/MINISTRY,9312901213,"Parliament House annexe, Sansad marg area, New Delhi"
+18,SA1,Siddha,1,,,NA,DELHI/HQ/DIRECTORATE/MINISTRY,1120819843,"Quarter No. 7, Block No. 4, Lodhi Colony, New Delhi"
+18,,Allopathy,1,,,NA,DELHI/HQ/DIRECTORATE/MINISTRY,,"Ex PM (M M Singh) 3, Motilal Nehru Place, Motilal Nehru Marg"
+19,DBR1,Allopathy,2,27.47102548,94.8935329,NA,Guwahati,"0373-2325111, 0373-2326812","CGHS Wellness Centre, H.No.221, South Amolapatty, P.O-Mohonaghat, Dibrugarh-786008"
+19,GT3,Allopathy,2,26.14018691,91.676269,NA,Guwahati,0361-2670255,"H/o Gokul Ch. Deka,H.No-6, P.N.G.B. Road, In front of Guwahati Nursery, Gotanagar,Guwahati-781033"
+20,HY2,Allopathy,5,17.38203735,78.43931734,NA,Hyderabad,040-23531833,"Sharadanagar Colony, Gudimal Kapur, Hyderabad-500028"
+20,HY7,Allopathy,4,17.37152247,78.50104163,NA,Hyderabad,040-24529090,"H.No.16-3-994/1/A/1, Opp.Officers Mess, New Malakpet, Hyderabad- 500036"
+20,HY9,Allopathy,5,17.50938368,78.50617008,NA,Hyderabad,040-27972563,"Pempala Towers, Old Alwal, Secunderabad"
+20,RHM1,Allopathy,2,16.992151,81.77775427,NA,Hyderabad,0883-2475090,"Mo I/C, CGHS W.C. Rajahmundry, Type II P & T Quarters, Q. No. 9,10"
+20,VIJ1,Allopathy,4,16.51171746,80.62548572,NA,Hyderabad,0866-2571100,"CMO I/C, CGHS W.C., Vijayawada, Arundal Municipal Complex, 1 Floor,
+Rajagopalachari Street, Governorpeta, Vijayawada-520002"
+21,JB4,Allopathy,4,23.16180618,79.95530791,NA,Jabalpur,0761-2629460,"Head Post Office Compound, Jabalpur-482001, Madhya Pradesh"
+21,JB5,Allopathy,3,23.20436105,80.01068618,NA,Jabalpur,0761-2430018,"Quarter No.MT/2, Type-V, Westland  Ordanace  Factory Khamariya ,
+Jabalpur-482005, Madhya Pradesh"
+21,JB6,Allopathy,3,23.19912669,79.94507294,NA,Jabalpur,0761-2991309,"129, Ravindra Nagar, Adhartal, Jabalpur-482004, Madhya Pradesh"
+22,JA2,Allopathy,2,26.91044239,75.84168254,NA,Jaipur,0141-2610412,"B-121, Janta Colony, Jaipur"
+22,KOT1,Allopathy,2,25.16885822,75.85364136,NA,Jaipur,0744-2948001,"CGHS Wellness Center, Behind Akash Mall, Areodram Circle, Kota- 324007"
+23,KN4,Allopathy,2,26.4549301,80.35683596,NA,Kanpur,0512-2322924,"E-15, Khapra Mohal, Kanpur"
+23,KN5,Allopathy,4,26.4239695,80.31842844,NA,Kanpur,0512-2985521,"Kendranchal WC, Building Gulmohar Vihar, Juhi, Kanpur"
+23,KNA1,Ayurveda,2,26.44407054,80.28728617,NA,Kanpur,0512-228399,"Plot No.8-11,  CGHS Ratan Lal Nagar, Kanpur"
+23,KNH2,Homeopathy,1,26.4761711,80.34646446,NA,Kanpur,0512-2989987,"15/45 (A&B) Civil Lines, Kanpur"
+24,JLP1,Allopathy,2,26.5212603,88.72784211,NA,Kolkata,03561-291055,"CGHS Wellness Center Jalpaiguri, Head Post Office Compound, Jalpaiguri, West Bengal - 7351010"
+24,KO1,Allopathy,3,22.53045424,88.33275501,NA,Kolkata,033-24791153,"Flat no.68., Belvedere Estate, Kolkata-700027, Near Airpore Zoo/Command Hospital)"
+24,KO15,Allopathy,4,22.48954561,88.35322855,NA,Kolkata,24116059,"Tollygunge C.G. Qrts, Ground Floor, Kolkata -700040"
+24,KO17,Allopathy,3,22.48269953,88.3256764,NA,Kolkata,24311328,598 Diamond Harbour Road
+24,KO4,Allopathy,2,22.57853404,88.38382422,NA,Kolkata,033-23203998,Flat No.27 & 28 Narkeldenga Govt Qrts Kolkata -700054
+24,KO5,Allopathy,4,22.59741023,88.36655313,NA,Kolkata,9433237656,"BSNL Building, Ground Floor, Bagbazar Telephone Exchange Building, 4,
+Old Mayors Court Road, Bag Bazar, Kolkata - 700005"
+24,KO6,Allopathy,5,22.51773925,88.3991201,NA,Kolkata,033-24415588,"Quarter No. 286 &293, 179 Road number, GST Bhawan Near Ruby General
+Hospital Kolkata - 700107"
+24,KO8,Allopathy,3,22.57576509,88.36089404,NA,Kolkata,033-25558034,"AIIH&PH Campus, (CR Avenue), 50 Colootula Street, Kolkata - 700073"
+25,GKP1,Allopathy,2,26.74890492,83.36611836,NA,Lucknow,0551-2202345,"CGHS Wellness Center Gorakhpur, Old HPO Building, Maya Bazar near
+Mahila Chikitsalya Gorakhpur - 273001"
+25,LK12,Unani,2,26.84366838,80.885169,NA,Lucknow,0522 2419754,C 3335 Meena Bakery Road Rajajipuram Lucknow 226017
+25,LK3,Allopathy,4,26.79107033,80.90429498,NA,Lucknow,0522-2421992,"CPB/G Sector G, Prem Plaza, Kanpur Road, LDA Colony, Lucknow"
+25,LK7,Allopathy,3,26.87368628,80.95952834,NA,Lucknow,0522-2321433,"1st Flr,P Office Campus, Mahanagar Gol Market, Lucknow 226020"
+25,LK9,Allopathy,1,26.84833152,80.90125319,NA,Lucknow,0522-2651276,"Kaushalya Niwas, Amethi House, Aishbagh Road P&T, Lucknow"
+26,AGH1,Allopathy,2,27.90016758,78.07277572,NA,Meerut,0571-2400377,"CGHS Wellness Center, Head Post Office, near Tasveer Mahal, Aligarh -202001"
+27,GO1,Allopathy,2,15.45518499,73.84528575,NA,Mumbai,8322458566,"D II (A,B & C) HPT, Air Staff Quarters Complex, Bambolim, Goa -403206"
+27,MU15,Allopathy,2,19.04518462,72.9187779,NA,Mumbai,022-25512137,"Deonar Post Office Bldg Telecom Factory, Town ship compound, Deonar, Mumbai- 400088
+"
+27,MU30,Allopathy,2,18.9398436,72.82774827,NA,Mumbai,022-24013449,"CGHS Polyclinic  KOLIWADABuilding No. 221, Sector I, Kane Nagar,Mumbai - 400 037."
+27,MU4,Allopathy,4,19.22224166,73.10216903,NA,Mumbai,0251-2991945,"Thakurli Wellness Centre (MU4) Shree Nav Varadvinayak CHS ltd, New 90 feet Road,Opp. Omkar International School, Thakurli (East)-421201"
+27,MU9,Allopathy,1,19.05007855,72.8682701,NA,Mumbai,022-24081616,"Central Labour Inst. Premises, Trombay Road, (Sion), Mumbai - 400022."
+27,MUH3,Homeopathy,1,19.02826906,72.8679298,NA,Mumbai,022-24015758,"Shaikh Mistry, S.M. Plot,Kolowada, Mumbai - 400037"
+28,NP1,Allopathy,6,21.1701215,79.06657087,NA,Nagpur,0712-2971828,"CPWD Colony, Katol Road, Nagpur- 440013"
+28,NP5,Allopathy,2,21.13313853,79.09622295,NA,Nagpur,0712- 2744490,"Plot No. 79, Ajit Apartment, 1st Floor, Opp. Medical Book Store, Rambagh
+Layout, Medical College Square, Nagpur- 440024."
+28,NP9,Allopathy,3,21.13149175,79.11599164,NA,Nagpur,0712- 2956314,"Plot No. 470, Chaudhary Bhawan, Near Tiranga Chowk, Sakkardara, Nagpur- 440024"
+28,NPA2,Ayurveda,3,21.15871523,79.05748809,NA,Nagpur,0712-2955004,"Opposite CBI Quarters, Civil Lines, Nagpur- 440001"
+28,NPPO,Allopathy,6,21.1701215,79.06657087,NA,Nagpur,0712-2580963,"CPWD Colony, Katol Road, Nagpur- 440013"
+29,DBG1,Allopathy,1,26.15747522,85.89839963,NA,Patna,9470404332,"CGHS W.C., CGHS Bela, Near Postal Training Centre, Darbhanga"
+30,PU07,Allopathy,6,18.49489983,73.86001549,NA,Pune,020-24266402,"Ground Floor, Swasthya Sadan, Mukundnagar, Pune-411 037."
+30,PU08,Allopathy,3,18.44602645,73.78936315,NA,Pune,020-24471602,CWPRS RESIDENTIAL QTRS KHADAKAWASALA
+30,PU10,Allopathy,4,18.49489983,73.86001549,NA,Pune,020-24266402,"Ground Floor, Swasthya Sadan, Mukundnagar, Pune-411 037."
+10,AH03,Allopathy,4,23.042025,72.568364,NA,Ahmedabad,079-26430021,"Govt Qtrs-B1 &B6, Income tax colony, opp.High court, Ashram road, Ahmedabad-380009"
+10,AHA1,Ayurveda,1,23.03560077,72.56946002,NA,Ahmedabad,079-26577393,"3rd  Floor, S.R.House, Opp. Mount Carmel School, Ashram Road, Ahmedabad- 380009"
+11,AL03,Allopathy,0,25.43117363,81.83338281,NA,Prayagraj,0532-2242530,"1130/1130A Kalyani Devi, Allahabad"
+11,AL05,Allopathy,2,25.45764184,81.77749592,NA,Prayagraj,0532-2232562,"9,10,11 &14 Type II, Kendranchal Colony, Preetam Nagar, Allahabad"
+11,VN01,Allopathy,0,25.38535366,82.97601407,NA,Prayagraj,0542-2290158,"Type-III, Qrtr. Nos. 98,99,100, Kendranchal Colony, Bada Lal Pur, Varansi-221003"
+11,VN02,Allopathy,1,25.28137038,82.9765985,NA,Prayagraj,0542-24103705,"N8/236-R-55, Ganeshdham Colony, Nevada, Sundarpur, Varanasi-221005"
+13,BP2,Allopathy,2,23.19897713,77.43037702,NA,Bhopal,0755- 2566977,"House No. 2 ,Vasant Kunj E 8 ,Arera Colny Near Bharat Nagar, BUSSTOP,Bhopal, MP 462039"
+13,IN1,Allopathy,3,22.70056503,75.88902192,NA,Bhopal,0731-2928022,"Type III Malcom Quarters, Navratan Bagh, Manorama Ganj near St.Rafiel School, Indore MP 452001"
+14,CU1,Allopathy,2,20.47920484,85.8770639,NA,Bhubaneswar,(0671-2977097) ,"O/o The CMO I/c, CGHS, 15,Contonment Road,Buxi Bazar,Po-Busi Bazar, Cuttack, Pin-753001"
+15,CG1,Allopathy,6,30.70475566,76.76134927,NA,Chandigarh,"0172 - 2925160
+9888272255","U.T. CIVIL HOSPITAL COMPLEX, SECTOR 45-C, CHANDIGARH -160047"
+15,JT02,Allopathy,2,32.69721435,74.87845229,NA,Chandigarh,0191-2950695,"CGHS WC-II, Building adjacent to House no.44/45-P, Sector-4, Trikuta Nagar, Jammu (J & K)-180020"
+16,CH01,Allopathy,3,12.99195586,80.25304348,NA,Chennai,044-23458401,"26th Cross Street, Cpwd Qtrs, Indira Nagar, Adyar"
+16,CH13,Allopathy,1,13.06983525,80.28664578,NA,Chennai,044-23458413,CPT QUATERS NAPIER BRIDGE A1 BLOCK TRIPLICANE CHENNAI
+16,PDH1,Homeopathy,1,11.93965839,79.7962622,NA,Chennai,9312901213,IGMC&RI KADIRKAMAM PUDUCHERRY 605009
+16,TRC1,Allopathy,2,10.80107015,78.68722376,NA,Chennai,0431-2419428,"Head Post Office Compound, Birds Road Tiruchirapalli - 620001"
+17,DD3,Allopathy,4,30.32540133,78.05253298,NA,Dehradun,0135-2652605,"1-Raipur Road, Survey Chowk, Dehradun, Uttarakhand"
+17,DD4,Homeopathy,1,30.32540133,78.05253298,NA,Dehradun,0135-2652605,"1-Raipur Road, Survey Chowk, Dehradun, Uttarakhand"
+18,AY76,Ayurveda,2,28.6309063,77.20107254,NA,DELHI/HQ/DIRECTORATE/MINISTRY,23363178," CGHS Building, Kali bari Marg"
+18,AY80,Ayurveda,2,28.64563875,77.11230518,NA,DELHI/HQ/DIRECTORATE/MINISTRY,25268410,"A3 Block , Flat No. A1,A2,A8 ,Pocket 3, Green Apartment , Paschim Vihar"
+18,D100,Allopathy,5,28.5627734,77.05371861,NA,DELHI/HQ/DIRECTORATE/MINISTRY,28053080,"HAF Pocket-1 Sector-23 Dwarka, Delhi Near Hanuman Temple"
+18,D105,Allopathy,4,28.83780928,77.10587199,NA,DELHI/HQ/DIRECTORATE/MINISTRY,011-20872651,"Pocket -3, Sector B-4, Police Colony, Narela"
+18,D11,Allopathy,6,28.57253204,77.23874563,NA,DELHI/HQ/DIRECTORATE/MINISTRY,29816439,"CGHS Disp. Building, Lajpat Nagar Market"
+18,D19,Allopathy,5,28.65878377,77.18731974,NA,DELHI/HQ/DIRECTORATE/MINISTRY,28720275,Block H2 First Floor 121-124 CPWD Multi Storey budling Dev nagar -5 Behind Liberty Cinema
+18,D22A,Allopathy,6,28.45163091,77.52128769,NA,DELHI/HQ/DIRECTORATE/MINISTRY,0120-2977128,"First floor, P3 Shopping complex, Greater Noida "
+18,D29,Allopathy,5,28.58220509,77.16869388,NA,DELHI/HQ/DIRECTORATE/MINISTRY,24670444,"CGHS Disp. Building, Nanakpura"
+18,D30,Allopathy,0,,                                                  ,NA,DELHI/HQ/DIRECTORATE/MINISTRY,9312901213,
+18,D4,Allopathy,2,28.64086569,77.22731673,NA,DELHI/HQ/DIRECTORATE/MINISTRY,"23234625, 23235368","New Minto Road Hostel, Block-I, Minto Road Complex"
+18,D41,Allopathy,6,28.53701704,77.22244812,NA,DELHI/HQ/DIRECTORATE/MINISTRY,26671494,"CGHS Building, Sheikh Sarai, Phase-1,Near Triveni Complex"
+18,D42,Allopathy,4,28.53983751,77.25933036,NA,DELHI/HQ/DIRECTORATE/MINISTRY,26430851,CGHS Maternity Centre Building & Disp.
+18,D50,Allopathy,5,28.56537149,77.17367052,NA,DELHI/HQ/DIRECTORATE/MINISTRY,26175490,"CGHS Disp. Building, R.K. Puram, Sector  VI"
+18,D50A,Allopathy,3,28.55634664,77.16208953,NA,DELHI/HQ/DIRECTORATE/MINISTRY,26141978,"CBI Colony, Vasant Vihar, Flat No. 59 B & 59 C"
+18,D54,Allopathy,5,28.69090559,77.11542952,NA,DELHI/HQ/DIRECTORATE/MINISTRY,27021102,"Suvidha Kunj near KIIT WORLDS School, Pitampura Delhi"
+18,D63,Allopathy,7,28.55537724,77.2271222,NA,DELHI/HQ/DIRECTORATE/MINISTRY,26255516,"CGHS Wellness Centre Building, Sadiq Nagar Sec-3 (Near G.K.I)"
+18,D66,Allopathy,6,28.59038002,77.08739725,NA,DELHI/HQ/DIRECTORATE/MINISTRY,25035839,"Palam Colony, Near Subzi Mandi, Mangla Puri Bus stand, Mangla Puri"
+18,D67,Allopathy,11,28.63081088,77.27749219,NA,DELHI/HQ/DIRECTORATE/MINISTRY,011-21210276,"CGHS Building, H-Block, ,Laxmi Nagar,  Vikas Marg"
+18,D69,Allopathy,4,28.55448463,77.17893831,NA,DELHI/HQ/DIRECTORATE/MINISTRY,26173911,"Qr. No. 733, 735, 737 and 739, Sector III, R.K. Puram"
+18,D76,Allopathy,5,28.63063013,77.20003346,NA,DELHI/HQ/DIRECTORATE/MINISTRY,"23743142, 21400774","CGHS Building, Udyan Marg, Kali Bari Marg , DIZ Area"
+18,D77,Allopathy,6,28.60546935,77.29438917,NA,DELHI/HQ/DIRECTORATE/MINISTRY,011-21200721,"CGHS WC, PratapNagar, Behind Jeewan Anmol Hospital, Mayur Vihar-Phase 1"
+18,D80,Allopathy,5,28.66922983,77.10229026,NA,DELHI/HQ/DIRECTORATE/MINISTRY,25268410,"A3 Block , Flat No. A1,A2,A8 ,Pocket 3, Green Apartment , Paschim Vihar"
+18,D84,Allopathy,6,28.70162011,77.26739727,NA,DELHI/HQ/DIRECTORATE/MINISTRY,011-22565516     011-21230042,"CGHS Wellness Centre,  B2 Block, Yamuna Vihar"
+18,D93,Allopathy,8,,0,NA,DELHI/HQ/DIRECTORATE/MINISTRY,9312901213,"CGHS Welness Centre, Supreme Court New Delhi 110001"
+18,FAPND,Allopathy,2,28.62510231,77.20524954,NA,DELHI/HQ/DIRECTORATE/MINISTRY,"23723133 ,21400888",First Aid Post Narmada Narmada block BB Marg
+18,HO26,Homeopathy,2,28.63952794,77.09827469,NA,DELHI/HQ/DIRECTORATE/MINISTRY,25998900,Tilak Nagar Near Subzi Mandi
+18,HO42,Homeopathy,2,28.53974251,77.25946473,NA,DELHI/HQ/DIRECTORATE/MINISTRY,011-26430851,"CGHS Maternity Centre Building & Disp., Kalkaji"
+18,HO49,Homeopathy,2,28.68153437,77.29917983,NA,DELHI/HQ/DIRECTORATE/MINISTRY,011-22583766,"CGHS Wellness Centre No. 49, Mansarovar Park, Shahdara (Near DDA Flats)"
+18,HO67,Homeopathy,2,28.63082858,77.27719947,NA,DELHI/HQ/DIRECTORATE/MINISTRY,011-21210277,"2nd Floor, CGHS Building Laxmi Nagar, H-Block,  Vikas Marg (Near Metro Station),Laxmi Nagar"
+18,UN13,Unani,2,28.57492793,77.20791263,NA,DELHI/HQ/DIRECTORATE/MINISTRY,011-24673551,"Qr. No. - 897 Type VI , Laxmi Bai  Nagar"
+18,UN8,Unani,1,,                                                  ,NA,DELHI/HQ/DIRECTORATE/MINISTRY,011-23866292,
+18,UPHA,Unani,0,,                                                  ,NA,DELHI/HQ/DIRECTORATE/MINISTRY,9312901213,"Parliament House annexe, Sansad marg area, New Delhi"
+18,,Allopathy,0,,,NA,DELHI/HQ/DIRECTORATE/MINISTRY,,"CGHS Building, Sector-5, Tamil Sangam Marg, R.K Puram"
+19,GT5,Allopathy,3,26.11541435,91.77283641,NA,Guwahati,"0361-2236284
+","A.G. Residential Complex, Beharbari,Guwahati-781029"
+19,GTIT01,Allopathy,0,27.09237656,93.63107706,NA,Guwahati,,"CGHS Wellness Centre, Doordarshan Maintenance Centre Building, Itafort South Gate, Itanagar-791111"
+19,KH1,Allopathy,1,25.66650677,94.09206484,NA,Guwahati,0370-2242041,"H.N. MRH/D-67, Merhuliesta, Opp. Paramedical Training Institute, Nagaland, Kohima-797001"
+20,HY11,Allopathy,6,17.43898265,78.35610836,NA,Hyderabad,040-23002454,"Hostel Suite No.1 to 8, Hostel Complex, GPRA Quarters, Gachibowli, Hyderabad 500032"
+20,HY4,Allopathy,7,17.44548094,78.47219019,NA,Hyderabad,040-27904259,"Kendriya Swasthya Bhavan, Begumpet,  Hyderabad-500016"
+20,HY5,Allopathy,4,17.40595911,78.4779561,NA,Hyderabad,040-23220454,"Oilseeds Quarters Type-1, Behind Lady Hydri Club, Himayatnagar,Hyderabad-500029"
+20,HY8,Allopathy,8,17.33795702,78.50624702,NA,Hyderabad,040-24340685,"DRDO Complex Kanchanbagh,Hyderabad-500058"
+20,HYH1,Homeopathy,2,17.44548094,78.47219019,NA,Hyderabad,040-27904259,"Kendriya Swasthya Bhavan, Begumpet,  Hyderabad-500016"
+20,HYU1,Unani,1,17.37312747,78.48620381,NA,Hyderabad,040-24525415,"22-1-951 Noor Khan Bazaar, Hyderabad 500002"
+21,JB2,Allopathy,3,23.17031915,79.91071301,NA,Jabalpur,0761-2416805,"Quarter No. 9-12, Type-III, I.B.M. Colony, Kamla Nehru Nagar, Garha
+Road, Jabalpur-482002, Madhya Pradesh"
+21,JB7,Ayurveda,1,23.18785507,79.98076009,NA,Jabalpur,0761-2431721,"Block 2 & 5, J-Type Quarter, Vaidyanath Nagar, Ranjhi Main Road,
+Jabalpur-482011, Madhya Pradesh"
+22,JA8,Allopathy,5,26.87536161,75.80706144,NA,Jaipur,0141-2710021,"A.G.Colony, Bajaj Nagar, Jaipur"
+23,KN3,Allopathy,3,26.4761711,80.34646446,NA,Kanpur,0512-2989987,"15/45 (A&B) Civil Lines, Kanpur-208001"
+23,KN8,Allopathy,2,26.50118503,80.30644473,NA,Kanpur,0512-2983898,"2A/186, Azadnagar, Kanpur"
+23,KNH1,Homeopathy,2,26.44407054,80.28728617,NA,Kanpur,0512-228399,"Plot No.8-11,  CGHS Ratan Lal Nagar, Kanpur"
+24,KO10,Allopathy,4,22.56640706,88.34979046,NA,Kolkata,033-22622030,"6, Esplanade East (Ground Floor),Kolkata 700069 (Opposite to CTC tram Depot, Esplanade)"
+24,KO12,Allopathy,3,22.60111493,88.41916114,NA,Kolkata,23374635,"Bidhan Nagar AF Block Sec.- I, Flat No. 209 & 210."
+24,KO23,Homeopathy,1,22.52247232,88.34767929,NA,Kolkata,033-24940109,"1-A , Satish Mukherjee Road, Kolkata, 700026"
+25,BRL1,Allopathy,2,28.35405061,79.41048197,NA,Lucknow,0581-2555344,"CGHS Wellness Center Bareilly, Postal Colony Compound, Near BSNL exchange, Chaupala, Bareilly - 243003"
+25,LK10,Ayurveda,1,26.84027595,80.9398774,NA,Lucknow,0522 4047533,"B-1, H Road, Mahanagar Extension, Lucknow"
+25,LK2,Allopathy,1,26.88507509,80.95124233,NA,Lucknow,0522-2329714,"B-1/H Road,Mahanagar extension, Lucknow"
+26,MR2,Allopathy,2,28.955408,77.73212529,NA,Meerut,0121-2600340,"G-Block, Shastri Nagar, Meerut"
+26,MRA1,Ayurveda,2,28.9974856,77.70237908,NA,Meerut,0121-2661739,"171/V, Abu Lane, Meerut Cantt."
+26,MRH3,Homeopathy,2,28.99582745,77.711822,NA,Meerut,0121-2640074,"154, Western Kutchery Road, Vijay Nagar, Meerut"
+27,MNK1,Allopathy,4,19.97533726,73.8151614,NA,Mumbai,0253-2992850,"Government of India Press Colony, Gandhinagar, Nashik - 422006"
+27,MU13,Allopathy,7,,,NA,Mumbai,022-0870898,"A-1 wing, A-2 Wing,  Ground Floor, CGO Complex, Near RBI,Sector -10,
+CBD Belapur, Navi Mumbai,- 400614"
+27,MU14,Allopathy,2,19.08336467,72.85713609,NA,Mumbai,022-026650366,"P & T Colony, Vakola Mumbai- 400029"
+27,MU19,Allopathy,4,19.17273771,72.94385129,NA,Mumbai,022-25616267,"B/2, Type-II P & T. Colony,Mulund(W), Mumbai - 400 080"
+27,MU21,Allopathy,1,19.10128238,72.86228799,NA,Mumbai,022-28210959,"P & T Colony, Sahar Mumbai- 400029"
+27,MU28,Allopathy,4,19.08460481,72.83173083,NA,Mumbai,022-26601744,"Telecom Complex, Juhu Tara Road, Santacruz(W),  Mumbai."
+27,MU3,Allopathy,2,19.00343447,72.8138685,NA,Mumbai,022-24932909,"25-C, Ground Floor CGHS Building"
+27,MU8,Allopathy,6,19.02929236,72.86422293,NA,Mumbai,022-24013694,"Bldg.No.21, Sectior-1, Kane Nagar,  Mumbai - 400037"
+27,,Homeopathy,0,,,NA,Mumbai,,"Shaikh Mistry, S.M. Plot,Kolowada, Mumbai - 400037"
+28,NP2,Allopathy,3,21.15871523,79.05748809,NA,Nagpur,0712-2955004,"Opposite CBI Quarters, Civil Lines, Nagpur- 440001"
+28,NPA5,Ayurveda,2,21.13313853,79.09622295,NA,Nagpur,0712- 2744490,"Plot No. 79, Ajit Apartment, 1st Floor, Opp. Medical Book Store, Rambagh Layout, Medical College Square, Nagpur- 440024."
+28,NPH2,Homeopathy,2,21.15871523,79.05748809,NA,Nagpur,0712-2955004,"Opposite CBI Quarters, Civil Lines, Nagpur- 440001"
+28,RP2,Allopathy,2,21.22263443,81.64153392,NA,Nagpur,0771-2272111,"CGHS W.C., Tikrapara, Postal Colony, Tikrapara, Raipur-492001"
+28,RPH1,Homeopathy,1,21.260546,81.655756,NA,Nagpur,7712582844," In front of District hospital, Hanuman mandir Chowk, Pandri, Raipur- 492004
+"
+29,PA2,Allopathy,3,25.6024297,85.15492173,NA,Patna,"0612-2351484, 2950640","G-3, People's Cooperative Colony, Kankarbagh, Patna-800020"
+29,PA5,Allopathy,3,25.61005931,85.20623484,NA,Patna,0612-2638950,"Suryanchal, Bhadraghat, SDO Lane, Gulzarbagh, Patna City, Patna"
+29,PA8,Homeopathy,2,25.6024297,85.15492173,NA,Patna,0612-2351484,"G-3, People's Cooperative Colony, Kankarbagh, Patna-800020"
+30,PU04,Allopathy,2,18.51914825,73.85990902,NA,Pune,020-24570018,"""Agneya"", 1st Floor Phadke Haud Chowk 1422, Kasba Peth Pune 411011"
+31,DHN1,Allopathy,2,23.80769349,86.43284727,NA,Ranchi,"87890 78388,
+95462 75339","C.G.H.S. Wellness Centre Bartand, Near Bus Stand, Dhanbad -826001"
+31,RA2,Allopathy,1,23.36961205,85.34300363,NA,Ranchi,0651-2532244,"10 A Deep Villa, Purulia Road, Ranchi, Jharkhand"
+32,IM1,Allopathy,2,24.79809777,93.95165961,NA,Shillong,0385-2442104,"CMO In-chare, CGHS WC, Imphal,Gr. Floor Building of Manipur Voluntery Health Association ((MVHA) Wangkheri Ningthem Pukhri, Mapan, Imphal East Manipur - 795001"
+32,SH2,Allopathy,2,25.57263767,91.8868989,NA,Shillong,0364-2504451,"CGHS Wellness Centre No.2, Opp. Raj Bhawan, Shillong - 793001"
+33,CAL1,Allopathy,2,11.23691282,75.79146636,NA,Trivandrum,0495 -2967725,"O/o CMO In Charge, CGHS WC (Calicut), Type VI, Block II, GPRA Colony, Kallai, Calicut 673003"
+33,TR4,Ayurveda,2,8.513531718,76.97451377,NA,Trivandrum,0471-2728110,"O/o CMO I/C, TC 9/1580,  ""Mangalya"" Hospital Road, Sasthamangalam Trivandrum-695010"
+10,AH05,Allopathy,2,23.076502,"72.651866
+                                        ",NA,Ahmedabad,079-22680847,"1st Floor, Medicon Arcade, Near Galaxy Cinema, in front ot IBP Petrol Pump, Naroda - Himmatnagar Highway, Naroda, Ahmedabad - 382330"
+10,AH08,Allopathy,4,23.225038,"72.495602
+                                        ",NA,Ahmedabad,079-25506622,"GPO Compound,  Laldarwaja, Mirzapur,Ahmedabad  -380001                  "
+10,AHA7,Ayurveda,2,23.209037,"72.648779
+                                        ",NA,Ahmedabad,079-23243433,"1st Floor, A 713/1-2, Sec-8, CH-1, Near Post Office, Gandhinagar-382007"
+10,AHH8,Ayurveda,0,,                                                  ,NA,Ahmedabad,9312901213,"GPO Compound,  Laldarwaja, Mirzapur,Ahmedabad  -380001                  "
+11,AL06,Allopathy,1,25.43892218,81.80141076,NA,Prayagraj,0532-2403822,"276/129/2B/19, Chakia,Kaushami Road, Prayagraj-211003"
+11,ALA1,Ayurveda,0,25.4497241,81.8310979,NA,Prayagraj,0532-2561310,"2nd Floor, Sangam Place, Civil Lines, Prayagraj-211001"
+12,BA03,Allopathy,4,12.93526643,77.54742194,NA,Bengaluru,080 26793000,"NO-4013/4014, Hosakerehalli Main Road, Girinagar, Banashankari 3rd Stage (Near Seetha circle), Bangalore-566085"
+12,BA05,Allopathy,4,12.97777403,77.53858006,NA,Bengaluru,080 23351893,"Community Center, GPRA Quarters, Vijayanagara, banalore 5600"
+12,BA07,Allopathy,3,12.92966073,77.624501,NA,Bengaluru,080 25539277,"CPWD Complex, GPRA quarters, Koramangala, Bangalore 560034"
+12,BA09,Allopathy,4,13.02281115,77.58632361,NA,Bengaluru,080 23330320,"No.11, 1st Cross, HGH Layout, Ganganagar, Bangalore-560032"
+13,BP3,Ayurveda,1,23.24226523,77.42385078,NA,Bhopal,9312901213,"2nd Floor, Central Govt. Health Scheme, CGHS Bhawan, Plot No. 23,  Arera Hills, Near Meteorological Department,  Bhopal (M.P) - 462027"
+13,BPH1,Homeopathy,1,23.24226523,77.42385078,NA,Bhopal,0755 - 2765071,"2nd Floor, Central Govt. Health Scheme, CGHS Bhawan, Plot No. 23,  Arera Hills, Near Meteorological Department,  Bhopal (M.P) - 462027"
+14,BE1,Allopathy,2,19.30823394,84.81781461,NA,Bhubaneswar,"(0680-2291930)
+","O/o The CMO I/c, CGHS, Po-Engineering School, P & T Colony,Berhampur, Pin-760010 (Odisha)"
+14,BH2,Allopathy,1,20.27392206,85.83621098,NA,Bhubaneswar,"0674-2393545
+0674-2393645
+","O/o The CMO I/C WC-2, Back side of RBI, unit-3, Kharvel Nagar, Bhubaneswar, Pin-751001"
+15,JLN1,Allopathy,4,30.331992,76.832139,NA,Chandigarh,"0181-2224066,
+7888830858","CGHS Wellness Center Civil linies, P & T Colony, Jalandhar, Punjab -144001"
+16,CH10,Allopathy,4,13.11586042,80.23161637,NA,Chennai,044-23458410,"No 1 SRP KOIL STREET, AGARAM JUNCTION, PERAMBUR, CHENNAI"
+16,CH12,Allopathy,2,13.08858038,80.283484,NA,Chennai,044-23458412,"No. 1 NSC Bose Road, Amenity Block, Ground Floor, BSNL Telephone Exchange Complex, Flower Bazar, Chennai 600001"
+16,CH14,Allopathy,2,13.07921109,80.2407416,NA,Chennai,044-23458414,"NO 10 Vasu Street , Backside of  EGA Theatre .Kilpauk Chennai 600010"
+16,CH16,Ayurveda,1,13.08914158,80.20448887,NA,Chennai,044-23458402,Central Revenue Qtr No 15 Ranganathan Garden Anna Nagar
+17,DD5,Ayurveda,1,30.32879919,78.03990719,NA,Dehradun,0135-2659773,"P & T Colony, Chukhuwala, Chakrata Road, Dehradun "
+18,AY40,Ayurveda,2,28.58239077,77.24545523,NA,DELHI/HQ/DIRECTORATE/MINISTRY,011-24312213,"Q.No.46, 48, 50, 52, 56, Block No. 8, Jangpura"
+18,AY57,Ayurveda,3,28.57352692,77.1761298,NA,DELHI/HQ/DIRECTORATE/MINISTRY,011-26175146,"CGHS Disp. Building, Sector  XII,  R.K. Puram"
+18,D13,Allopathy,1,,                                                  ,NA,DELHI/HQ/DIRECTORATE/MINISTRY,9312901213,
+18,D15,Allopathy,5,28.57497688,77.20809402,NA,DELHI/HQ/DIRECTORATE/MINISTRY,26874643,"CGHS Disp. Building, Near Navyug School, Laxmibai Nagar"
+18,D16,Allopathy,3,28.58356493,77.16802799,NA,DELHI/HQ/DIRECTORATE/MINISTRY,24670333,"CGHS Building near Begum Zaidi Market, Moti Bagh"
+18,D17A,Allopathy,5,28.64454853,77.06975135,NA,DELHI/HQ/DIRECTORATE/MINISTRY,28533441,F Block Galaxy Appartment Vikaspuri
+18,D18,Allopathy,4,28.64535421,77.18963266,NA,DELHI/HQ/DIRECTORATE/MINISTRY,35953109," W.C. Polyclinic Lab & No. 1, 23-Pusa Road, New Delhi-110005, Near Karol Bagh Metro Station (Metro pillar No -100)"
+18,D23,Allopathy,7,28.58614996,77.19619253,NA,DELHI/HQ/DIRECTORATE/MINISTRY,24673777 20865003,"D-II/257, 259, Vinay Marg, Chanakyapuri Delhi"
+18,D28,Allopathy,4,28.63384763,77.24012319,NA,DELHI/HQ/DIRECTORATE/MINISTRY,011-23607196,"Office of the CAG of India, CAG Building, 10 Bahadur Shah Zafar Marg"
+18,D31,Allopathy,8,28.62426348,77.19955081,NA,DELHI/HQ/DIRECTORATE/MINISTRY,23094420,"31, North Avenue"
+18,D33A,Allopathy,4,28.63955825,76.96030477,NA,DELHI/HQ/DIRECTORATE/MINISTRY,20895140,"Delhi Police Training School, Jharoda Kalan, Najafgarh"
+18,D34,Allopathy,4,28.62489473,77.22345473,NA,DELHI/HQ/DIRECTORATE/MINISTRY,23326601,"18-E, Telegraph Lane"
+18,D39,Allopathy,5,28.56540611,77.23137246,NA,DELHI/HQ/DIRECTORATE/MINISTRY,26257628,"D-2, 65 & 67, Andrews Ganj"
+18,D45,Allopathy,5,28.63661611,77.18491198,NA,DELHI/HQ/DIRECTORATE/MINISTRY,28742850,"Additional Director, Office North Zone Ground Floor, New Rajinder Nagar, Shanker Road New Delhi -60 Near PNB&BYPL"
+18,D46,Allopathy,5,28.55846545,77.18321764,NA,DELHI/HQ/DIRECTORATE/MINISTRY,26175323,"CGHS Disp., Building, R.K. Puram, Sector  II"
+18,D49,Allopathy,9,,                                                  ,NA,DELHI/HQ/DIRECTORATE/MINISTRY,011-22583766,"CGHS Wellness Centre, Mansarovar Park, Shahdara"
+18,D57,Allopathy,4,28.57406168,77.17585236,NA,DELHI/HQ/DIRECTORATE/MINISTRY,26170472,"CGHS Disp. Building, Sector  XII,  R.K. Puram"
+18,D59,Allopathy,2,28.67012808,77.21777536,NA,DELHI/HQ/DIRECTORATE/MINISTRY,011-23973646,"5, Rajpur Road, Old Police Line"
+18,D6,Allopathy,3,28.67437886,77.18316653,NA,DELHI/HQ/DIRECTORATE/MINISTRY,011-23655272,"A-517, Nandkishore Gupta Marg, Beside Bank of India, Shastri Nagar"
+18,D61,Allopathy,13,28.6199674,77.08881546,NA,DELHI/HQ/DIRECTORATE/MINISTRY,25551434,"C-4A, Janak Puri, Near Janakpuri Superspeciality Hospital"
+18,D62,Allopathy,5,28.6745368,77.16035411,NA,DELHI/HQ/DIRECTORATE/MINISTRY,27242028,"D-Block Phase-I, Ashok Vihar"
+18,D65,Allopathy,6,,                                                  ,NA,DELHI/HQ/DIRECTORATE/MINISTRY,29564988,"CGHS Building, Sector  1, M.B. Road"
+18,D7,Allopathy,5,28.70657373,77.22152219,NA,DELHI/HQ/DIRECTORATE/MINISTRY,011-23813808,"CGHS Hospital/ Wellness Cenre , Lucknow Road,Timarpur"
+18,D86,Allopathy,8,28.7054737,77.11851943,NA,DELHI/HQ/DIRECTORATE/MINISTRY,27040169,"B-52 Naharpur Market, Sector-7, Rohini, Near DAV Public School"
+18,D91,Allopathy,5,28.52980793,77.1547584,NA,DELHI/HQ/DIRECTORATE/MINISTRY,26123790,"9/11, Opp. Bhatnagar International  School, Vasant Kunj"
+18,D95,Allopathy,5,28.53005522,77.39185964,NA,DELHI/HQ/DIRECTORATE/MINISTRY,0120-2568899,"Community Center I, Kendriya Vihar II, Plot 3, Sec. 82, Noida"
+18,D97,Allopathy,7,28.64925368,77.34096217,NA,DELHI/HQ/DIRECTORATE/MINISTRY,0120-2770973,"Flat No. 01-05, Sharda Tower, Sec-4 Vaishali"
+18,FAPSB,Allopathy,2,28.61690533,77.21501171,NA,DELHI/HQ/DIRECTORATE/MINISTRY,"23382389  ,20842191","First Aid Post, Shastri Bhawan"
+18,HO104,Homeopathy,1,28.41431809,77.32235574,NA,DELHI/HQ/DIRECTORATE/MINISTRY,9312901213,"Zila Sainik Board, Old Army Canteen, Sector-16"
+18,HO19,Homeopathy,2,28.6595976,77.18782943,NA,DELHI/HQ/DIRECTORATE/MINISTRY,011-28724555 ,"Block M2-122,121 & M1-114,First floor, CPWD Residential complex, Multistorey Quarters, Dev Nagar"
+18,HO24,Homeopathy,2,28.57782944,77.22462753,NA,DELHI/HQ/DIRECTORATE/MINISTRY,011 - 24693551,"CGHS Polyclinic, Kasturba Nagar"
+18,UN98,Unani,1,28.62504214,77.14352482,NA,DELHI/HQ/DIRECTORATE/MINISTRY,25778775,"CGHS WC, First Floor, C- Block, Naraina Vihar, New Delhi"
+18,,Homeopathy,0,,,NA,DELHI/HQ/DIRECTORATE/MINISTRY,9312901213,
+18,,Allopathy,0,,,NA,DELHI/HQ/DIRECTORATE/MINISTRY,,"VVIP Medical  Unit PMO, South block"
+19,AZ2H,Homeopathy,1,23.72126669,92.71342577,NA,Guwahati,"0389 - 2334764
+","Qtr. No. AIS(1)/C-SD/5 (Double Suit) , AIS Transit Residential Complex, New Secretariat Building, Khatla, Aizawl-796001
+"
+19,GT1,Allopathy,5,26.15202927,91.79152512,NA,Guwahati,"0361-2232743
+","Shankardev Nagar,Near Housing Colony,Hengrabari,Guwahati-781006"
+19,GT2,Allopathy,2,26.18253471,91.82637237,NA,Guwahati,9435344862,"H/o Mrs. Jonali Kalita, W/o Dr. Hiren Kalita, 
+1 No. Madgharia, Narengi Tiniali, 
+Guwahati-781026"
+20,GNT1,Allopathy,2,16.29830522,80.43104237,NA,Hyderabad,0863-2255989,"MO I/C, CGHS W.C., Guntur, Collectorate Sub Post Office, Opp
+Collector Office, Nagarampalem, Guntur-522004."
+20,HY1,Allopathy,3,17.37312747,78.48620381,NA,Hyderabad,040-24525415,"22-1-951 Noor Khan Bazaar, Hyderabad 500002"
+20,HYA2,Ayurveda,1,17.38693756,78.48784313,NA,Hyderabad,040-24734901,"Kendriya Sadan, Sultan Bazar Koti, Hyderabad-500095"
+20,HYV,Allopathy,4,17.72875996,83.33459217,NA,Hyderabad,0891-2556673,"Door No. 8-5-1, Govt.Mental Care Hospital premises Chinawaltair,Visakhapatnam -530017, Andhra Pradesh"
+21,JB1,Allopathy,5,23.16163819,79.92425032,NA,Jabalpur,0761-2410681,"1544/A, Ground Floor, Napier Town, Home Science College Road,
+Jabalpur-482001, Madhya Pradesh"
+22,AJM1,Allopathy,3,26.45924532,74.63580246,NA,Jaipur,0145-2432740,"CGHS Wellness Center, Ajmer Head Post Office, Office Campus, P.R. Marg, Ajmer"
+22,JA5,Allopathy,5,25.16885822,75.85364136,NA,Jaipur,0141-2743263,"Income Tax Colony, Jyoti Nagar, Jaipur"
+24,KO19,Allopathy,0,22.57129559,88.41659896,NA,Kolkata,23352801,"IC Block, CGHS Complex Salt Lake, Kolkata -700106 (Near Tank No.14)
+"
+24,KO7,Allopathy,3,22.52247232,88.34767929,NA,Kolkata,033-24940109,"1-A , Satish Mukherjee Road, Kolkata, 700026"
+24,KO9,Allopathy,3,22.51474071,88.32003937,NA,Kolkata,033-24010558,Mint Guard House
+24,SIL1,Allopathy,4,26.71349705,88.42894724,NA,Kolkata,0353-2970052,"CGHS Wellness Center Siliguri, 13, Haren Mukherjee Road, Hakimpara Siliguri West Bengal - 7340010"
+25,AGR1,Allopathy,4,27.16156094,78.01498757,NA,Lucknow,0562-2226223,"CGHS Wellness Center Agra, BSNL Compound, Agra Taarghar, Shahzadi Mundi, Agra - 282001"
+25,LK1,Allopathy,5,26.86331021,80.99547027,NA,Lucknow,0522-2723922,"B114-115, Vibhuti Khand, Gomti Nagar, Lucknow"
+25,LK13,Allopathy,6,26.84027595,80.9398774,NA,Lucknow,0522-2789991,"19-B, Sheela Complex Vidhan Sabha Marg, Lucknow"
+25,LK14,Homeopathy,2,26.86331021,80.99547027,NA,Lucknow,0522 4232730,"B114-115, Vibhuti Khand, Gomti Nagar, Lucknow"
+25,LK6,Allopathy,4,26.90467584,80.94438908,NA,Lucknow,0522-2745246,"HSI/10 Sector A, Sitapur Rd, Aliganj Lucknow "
+25,LK8,Allopathy,2,26.85267756,80.9401916,NA,Lucknow,0522-2230077,"PMG/GMT Office, Hazratganj, Lucknow 226001"
+26,BPT1,Allopathy,2,28.94878361,77.26150486,NA,Meerut,0121-2279714,"CGHS Wellness Center, Near Sarvodaya Public School,Aggarwal Mandi,Tatiri,Baghpat Meerut Road, Baghpat-250601."
+26,MR1,Allopathy,4,28.9974856,77.70237908,NA,Meerut,0121-2661739,"171/V, Abu Lane, Meerut Cantt."
+26,MR6,Allopathy,2,29.00930573,77.70656427,NA,Meerut,0121-2647895,"DAD Quarters, Lekha Nagar, Meerut Cantt"
+27,GO2,Ayurveda,1,15.45518499,73.84528575,NA,Mumbai,8322458566,"D II (A,B & C) HPT, Air Staff Quarters Complex, Bambolim, Goa -403206"
+27,GOH1,Homeopathy,1,15.45518499,73.84528575,NA,Mumbai,8322458566,"D II (A,B & C) HPT, Air Staff Quarters Complex, Bambolim, Goa -403206"
+27,MU17,Allopathy,1,19.14203043,72.93875222,NA,Mumbai,022-25619655,"Flat No.321 & 322, Type- IV Cite C, Central Govt, Qrts, Bhandup Mumbai - 400 078"
+27,MU20,Allopathy,4,19.21587665,72.82322252,NA,Mumbai,022-28677353,"D-1/2, Lekha Vihar, Sec-5, Charkop, Kandivli(West), Mumbai-40067"
+27,MU22,Allopathy,5,19.02828098,72.86793186,NA,Mumbai,022-24015758,"Shaikh Mistry, S.M. Plot, Koliwada, Mumbai - 400 037"
+27,MU24,Allopathy,4,19.13260583,72.92589699,NA,Mumbai,022-25784026,"Naval Armament Depot campus, Kanjumarg, Powai, Mumbai -400078"
+27,MU27,Allopathy,1,18.95637338,72.8002416,NA,Mumbai,022-23641816,"Hyderabad Estate, N.S.Road, Mumbai -400006"
+27,MUA1,Ayurveda,2,19.10384738,72.85739965,NA,Mumbai,022-28210971,"Near Airport Colony, Bamanawada, Santacruz (W), Mumbai - 400029"
+28,NCD1,Allopathy,1,19.96211641,79.30030346,NA,Nagpur,07172-257107,"DTO Building (BSNL), Near Railway Station, Chandrapur (Maharashtra)- 442401"
+28,NP10,Allopathy,1,21.15509698,78.99731574,NA,Nagpur,07104-224660,"Plot no.75, Shri. Raghunath Shelke's House, Gajanan Society,
+Dattawadi, Amravati Road, Nagpur-440023."
+28,NP2A,Allopathy,3,21.167528,79.05589377,NA,Nagpur,0712-2955021,"Swasthya Bhawan, Near TV Tower Seminary Hills Nagpur- 440006."
+28,NP7,Allopathy,3,21.15157733,79.08036603,NA,Nagpur,0712- 2565169,"Zero Miles, Near RBI Square, Beside Speed Post Office, Nagpur- 440001"
+28,RP1,Allopathy,2,21.26055266,81.65580337,NA,Nagpur,0771-2582844,"In front of District hospital, Hanuman mandir Chowk, Pandri, Raipur- 492004"
+29,PA4,Allopathy,4,25.6179952,85.1232941,NA,Patna,"0612-2532816,
+2951571","Krishna Ashram,  Plot No. 1091, East Boring Canal Road, Patna-800001"
+29,PA9,Allopathy,1,25.60772016,85.13358019,NA,Patna,9312901213,"CGHS WC Buddh Marg, Adalatganj, Veerchand Patel Road Area, Patna, Bihar 800001"
+30,PU05,Allopathy,3,18.55146034,73.81991329,NA,Pune,020-25652045,"Armament Colony, Ganeshkhind Road, Pune-411 020."
+30,PUAU1,Allopathy,2,,,NA,Pune,,"GST Bhavan,Annex building 5, Town Center, Cannought Place, Cidco-Chhatrapati Sambhajinagar-431003"
+30,PUH03,Homeopathy,1,,,NA,Pune,,"Chitragupta Complex, Hidayatullah Road, Pune-411 042."
+30,PUH05,Homeopathy,2,,,NA,Pune,,"Armament Colony, Ganeshkhind Road, Pune-411 020."
+31,RA1,Allopathy,5,23.34447919,85.31838608,NA,Ranchi,0651-2481901,"New A.G. Colony Doranda, Ranchi, Jharkhand"
+31,RA3,Allopathy,2,23.37866258,85.33993136,NA,Ranchi,0651-2562333,"P & T Colony, Lalpur, Ranchi, Jharkhand"
+32,AG1,Allopathy,2,23.82837235,91.292232,NA,Shillong,0381-2510222,"C/o (Prof.) Arunoday Saha, Lake View Road, Shiv Nagar, College Road, Agartala, Tripura West-793004."
+32,IM2,Homeopathy,1,24.79809777,93.95165961,NA,Shillong,0385-2442104,"CMO In-chare, CGHS WC, Imphal,Gr. Floor Building of Manipur Voluntery Health Association ((MVHA) Wangkheri Ningthem Pukhri, Mapan, Imphal East Manipur - 795001"
+32,SH3,Homeopathy,1,25.57263767,91.8868989,NA,Shillong,0364-2504451,"CGHS Wellness Centre No.2, Opp. Raj Bhawan, Shillong - 793001"
+33,KNU1,Allopathy,2,11.87252623,75.39086456,NA,Trivandrum,0497-2961613,"CGHS WC, Type II Quarters,  Kannur Range, Aayakar Bhavan, Kannothumchal, Chovva PO.,Kannur: 670006"
+33,TR1,Allopathy,2,8.533638607,76.94110527,NA,Trivandrum,0471-2443452,"O/o CMO I/C, TC 3/120, Kesavadasapuram, Thiruvananthapuram"
+33,TR2,Allopathy,1,8.513531718,76.97451377,NA,Trivandrum,0471-2728110,"O/o CMO I/C, TC 9/1580,  ""Mangalya"" Hospital Road, Sasthamangalam Trivandrum-695010"
+10,AH07,Allopathy,2,23.207968,"72.648354
+                                        ",NA,Ahmedabad,079-23243433,"Sec-8, GH-1 A705/1,2,3 & 4,  Opp. Sector 8 garden, Near sector 7-8 bus stand, Gandhinagar-382007"
+10,AHA8,Ayurveda,0,23.225038,"72.495602
+                                        ",NA,Ahmedabad,079-25506622,"GPO Compound,  Laldarwaja, Mirzapur,Ahmedabad  -380001                  "
+11,AL04,Allopathy,2,25.47294605,81.85707181,NA,Prayagraj,0532-2548040,"1/13. Prayag Strit, In front of D. P. Public school, Katra, Prayagraj-211004"
+11,AL08,Allopathy,3,25.45165497,81.83114008,NA,Prayagraj,0532-2560578,"2nd Floor, Sangam Place, Civil Lines, Allahabad-211001"
+12,BA01,Allopathy,7,12.98186983,77.60421131,NA,Bengaluru,080-25588777,"2nd Floor, Ganesh Towers, Infantry Road, Bangalore 560001"
+12,BA02,Allopathy,4,12.99319879,77.57306703,NA,Bengaluru,080 23311492,"No.6, Sameera Complex, 1St Main, Seshadripuram, Bangalore 560020"
+12,BA08,Allopathy,3,12.96364181,77.63971102,NA,Bengaluru,080 25355662,"First Floor, Community Center GPRA Quarters Domlur 560071"
+12,BA12,Ayurveda,2,12.93526643,77.54742194,NA,Bengaluru,080 26793000,"No.4013/4014 Hosakerehally Main Road, Giri Nagar, Banashankari, IIIrd Stage, Sita Circle, Bengaluru 560085"
+13,INA1,Ayurveda,1,22.70056503,75.88902192,NA,Bhopal,7024109245,"Type III Malcom Quarters, Navratan Bagh, Manorama Ganj near St.Rafiel School, Indore MP 452001"
+14,BHA1,Ayurveda,1,20.28357518,85.83014607,NA,Bhubaneswar,8290031344,"Unit IV, Old AG Colony, Bhubaneswar- 751001, Odisha"
+15,AMT1,Allopathy,3,31.63634699,74.86675502,NA,Chandigarh,"0183-2566160,
+7009680346","CGHS Wellness Center-1, ALO Building, Albert Road,(Near BSNL Building)Amritsar, Punjab - 143001"
+15,CG2,Allopathy,3,30.70770168,76.79117446,NA,Chandigarh,"0172-2997680
+9814550505","CGHS WC-2, Press colony, Sec 29-C, Chandigarh 160030"
+15,HOPK1,Homeopathy,0,30.69436858,76.83789529,NA,Chandigarh,,"CGHS Homeopathic Wellness Centre-1 (Chandigarh), First floor, BSNL Telephone Exchange Building, Scetor - 16 Panchkula  - 134109"
+15,JT01,Allopathy,2,32.7230567,74.85789076,NA,Chandigarh,"0191 - 3521496
+9796727717","Exhibition Ground, Dogra Chowk, Jammu ( J & K)-180003"
+15,SL1,Allopathy,3,31.10356764,77.1476879,NA,Chandigarh,"0177- 2633984
+9418043543","Chaura Maidan, Near Institute of Advance Studies, Shimla (H.P)- 171004"
+15,SRN1,Allopathy,2,34.03605948,74.80131375,NA,Chandigarh,"0194-2437339
+9796727717","MINI MATERNITY CENTRE COMPLEX, ANNEX BUILDING, SANAT
+NAGAR, SRINAGAR-190005, J & K"
+16,CH08,Allopathy,1,13.01482674,80.19506954,NA,Chennai,044-23458408,No 16-19 Cda Res Complex Nandambakkam
+16,CH11,Allopathy,2,13.02161908,80.25964346,NA,Chennai,044-23458411,No 6 Kamaraj Saalai Ra Puram Chennai 
+16,CH17,Homeopathy,1,13.08914158,80.20448887,NA,Chennai,044-23458402,Central Revenue Qtr No 15 Ranganathan Garden Anna Nagar
+16,CH19,Homeopathy,1,13.03690924,80.20790932,NA,Chennai,044-23458406,CPWD Quarters Kk Nagar Chennai 600078
+17,DD1,Allopathy,3,30.31124335,78.01212346,NA,Dehradun,0135-2521235,"20-Navyug Enclave, Indrapuram, Phase-III, Milan Vihar GMS Road, Dehradun "
+17,DD2,Allopathy,2,30.32879919,78.03990719,NA,Dehradun,0135-2659773,"P & T Colony, Chukhuwala, Chakrata Road, Dehradun "
+18,AY3,Ayurveda,1,28.59287576,77.12066929,NA,DELHI/HQ/DIRECTORATE/MINISTRY,25692914,"Sadar Bazar, Delhi Cantt,Near Geeta Ashram"
+18,AY31,Ayurveda,3,28.61897151,77.1991482,NA,DELHI/HQ/DIRECTORATE/MINISTRY,23092794,"119,121 North Avenue MP Flats"
+18,AY61,Ayurveda,2,28.6199674,77.08881546,NA,DELHI/HQ/DIRECTORATE/MINISTRY,25534868,"C-4A, Janak Puri, New Delhi-58,Besides Janakpuri Superspeciality Hospital"
+18,AY67,Ayurveda,2,28.63082858,77.27719947,NA,DELHI/HQ/DIRECTORATE/MINISTRY,011-21210276,"2nd Floor, CGHS Building Laxmi Nagar, H-Block,  Vikas Marg (Near Metro Station),Laxmi Nagar"
+18,AY70,Ayurveda,1,28.40717493,77.2973787,NA,DELHI/HQ/DIRECTORATE/MINISTRY,1292412729,"CGHS Bldg,Neighbourh"
+18,AY9,Ayurveda,8,28.58275082,77.21996992,NA,DELHI/HQ/DIRECTORATE/MINISTRY,9312901213,"Ground Floor, CGHS Ayurveda Hospital, CGHS Building, Aliganj, New Delhi-110003"
+18,D103,Allopathy,3,29.00738268,77.04064243,NA,DELHI/HQ/DIRECTORATE/MINISTRY,0130-4006423,"H.No-58, Sector-15, Part IV"
+18,D12,Allopathy,9,28.57386098,77.21812005,NA,DELHI/HQ/DIRECTORATE/MINISTRY,20846045,"2nd Floor, NBCC Complex, Ashok Market, East Kidwai Nagar"
+18,D14,Allopathy,0,,                                                  ,NA,DELHI/HQ/DIRECTORATE/MINISTRY,9312901213,
+18,D2,Allopathy,4,28.60456019,77.22802502,NA,DELHI/HQ/DIRECTORATE/MINISTRY,20818352,"D-II/365-367, Pandara Road"
+18,D21,Allopathy,3,28.57397338,77.18152661,NA,DELHI/HQ/DIRECTORATE/MINISTRY,20863362,"CGHS Bhawan, R.K.Puram, Sector-13"
+18,D3,Allopathy,5,28.59287576,77.12066929,NA,DELHI/HQ/DIRECTORATE/MINISTRY,25692914,"Sadar Bazar, Delhi Cantt,Near Geeta Ashram"
+18,D36A,Allopathy,7,28.58161526,77.06754116,NA,DELHI/HQ/DIRECTORATE/MINISTRY,20892480,"POCKET-1, HAF-1 SECTOR-9 DWARKA  OPPOSITE MOUNT EVEREST SOCIETY-75"
+18,D43,Allopathy,4,28.56301792,77.17916817,NA,DELHI/HQ/DIRECTORATE/MINISTRY,26175132,"Q.No.289, 291, 293, 295, Sector  IV, R.K.Puram."
+18,D44,Allopathy,6,28.60601634,77.23475626,NA,DELHI/HQ/DIRECTORATE/MINISTRY,"23383724 ,21410869","CGHS Building, Dr. Zakir Hussain Road"
+18,D5,Allopathy,6,28.64698619,77.209882,NA,DELHI/HQ/DIRECTORATE/MINISTRY,"23587511 ,23561574 ","3 & 4, Chitra Gupta Road"
+18,D51,Allopathy,4,28.64338902,77.20847664,NA,DELHI/HQ/DIRECTORATE/MINISTRY,23676019  23620231,"CGHS Building, Near Aram Bagh"
+18,D55,Allopathy,4,28.63669179,77.14526701,NA,DELHI/HQ/DIRECTORATE/MINISTRY,25836573,"Flat No. 647, 648, Krishi Kunj, Inder Puri (Entry from Gate No 2)"
+18,D60,Allopathy,12,28.69969222,77.20152047,NA,DELHI/HQ/DIRECTORATE/MINISTRY,011-27459411,"CGHS Wellness Centre, New Police Line, Kingsway Camp"
+18,D70,Allopathy,6,28.40717493,77.2973787,NA,DELHI/HQ/DIRECTORATE/MINISTRY,0129-2412729,"CGHS Bldg, Neighbourhood Town Ship-4, Near Sect- 21 B"
+18,D74,Allopathy,3,28.6199674,77.08881546,NA,DELHI/HQ/DIRECTORATE/MINISTRY,25619345,"C-4A, Janak Puri, Near Janakpuri Superspeciality Hospital"
+18,D78,Allopathy,5,28.52393866,77.22756907,NA,DELHI/HQ/DIRECTORATE/MINISTRY,29563193,"CGHS WC Building, Sector 4, Pushp Vihar"
+18,D79,Allopathy,3,28.66390085,77.31815398,NA,DELHI/HQ/DIRECTORATE/MINISTRY,011-21210150,"C-Block, Yojna Vihar, Near Mother Dairy"
+18,D82,Allopathy,4,28.66922983,77.10229026,NA,DELHI/HQ/DIRECTORATE/MINISTRY,25268410,"A3 Block , Flat No. A1, A2, A8, Pocket 3, Green Apartments, Opp. Jwala Heri Market Paschim Vihar"
+18,D85,Allopathy,7,28.60368042,77.33577272,NA,DELHI/HQ/DIRECTORATE/MINISTRY,0120-2970157,"R 51, Near Modern School, Sector-11, Noida"
+18,D89,Allopathy,5,28.73439194,77.12514759,NA,DELHI/HQ/DIRECTORATE/MINISTRY,"27894403, 40503215",CGHS WC Rohini-16 Pocket A-5 Near Bansal Bhavan and Kids Fort School Delhi
+18,D98,Allopathy,4,28.62504214,77.14352482,NA,DELHI/HQ/DIRECTORATE/MINISTRY,25778775,"C-Block, Naraina Vihar, Community Centre, Naraina Vihar"
+18,FAPCS,Allopathy,3,,                                                  ,NA,DELHI/HQ/DIRECTORATE/MINISTRY,"23092868 ,23092194","First Aid Post, Central Secretariat"
+18,FAPMB,Allopathy,0,,,NA,DELHI/HQ/DIRECTORATE/MINISTRY,,CGHS First Aid Post New Moti Bagh
+18,FAPMEA,Allopathy,0,28.58931176,"77.1754829153421
+                                 ",NA,DELHI/HQ/DIRECTORATE/MINISTRY,,
+18,HO57,Homeopathy,3,28.57345548,77.17600519,NA,DELHI/HQ/DIRECTORATE/MINISTRY,011-26172222,"CGHS Wellness Centre Building, Sec.-XII, R.K. Puram, "
+18,HO7,Homeopathy,2,28.70659319,77.22198319,NA,DELHI/HQ/DIRECTORATE/MINISTRY,011-23813808,"CGHS Hospital/ Wellness Centre Timarpur, Lucknow Road, Opp. Patrachar Building,Timarpur"
+18,HO73,Homeopathy,1,28.48227352,77.02017606,NA,DELHI/HQ/DIRECTORATE/MINISTRY,0124-4064497,"409 ,Sector-5, Gurgaon"
+18,HPHA,Homeopathy,0,0,0,NA,DELHI/HQ/DIRECTORATE/MINISTRY,9312901213,"Parliament House annexe, Sansad marg area, New Delhi"
+18,UN28,Unani,0,28.65772617,77.23527373,NA,DELHI/HQ/DIRECTORATE/MINISTRY,011-23866292,"Near Moti Cinema, Chandni Chowk"
+18,UN32,Unani,2,28.6111535,77.19995836,NA,DELHI/HQ/DIRECTORATE/MINISTRY,23015125,"31 MP Flats, South Avenue"
+18,UN49,Unani,2,,                                                  ,NA,DELHI/HQ/DIRECTORATE/MINISTRY,011-22583766,"CGHS Wellness Centre No. 49, Mansarovar Park, Shahdara (Near DDA Flats)"
+18,,Ayurveda,0,,,NA,DELHI/HQ/DIRECTORATE/MINISTRY,9312901213,
+18,,Allopathy,1,,,NA,DELHI/HQ/DIRECTORATE/MINISTRY,,"Vice President House 6, Maulana Azad Road"
+19,GT6,Homeopathy,1,26.15202927,91.79152512,NA,Guwahati,"6291524028, 0361-
+2232743","Shankar Dev Nagar, Near Housing Colony, Hengrabari Guwahati 781006"
+19,GTITH1,Homeopathy,1,27.09237656,93.63107706,NA,Guwahati,,"CGHS Wellness Centre, Doordarshan Maintenance Centre Building, Itafort South Gate, Itanagar-791111"
+20,HY10,Allopathy,5,17.44997782,78.43072837,NA,Hyderabad,040-23810449,"AG's Colony, Vikaspuri, Hyderabad 500045"
+20,HY14,Allopathy,6,17.44548094,78.47219019,NA,Hyderabad,040-29565132,"Kendriya Swasthya Bhavan, Begumpet,  Hyderabad-500016"
+20,HY3,Allopathy,4,17.42444845,78.49369408,NA,Hyderabad,040-27548898,"Ground Floor, CGO Towers, Kavadiguda, Secunderabad 500080"
+20,HY6,Allopathy,4,17.38693756,78.48784313,NA,Hyderabad,040-24734901,"Kendriya Sadan, Sultan Bazar Koti, Hyderabad-500095"
+20,HYA1,Ayurveda,2,17.44548094,78.47219019,NA,Hyderabad,040-27904259,"Kendriya Swasthya Bhavan, Begumpet,  Hyderabad-500016"
+20,HYH2,Homeopathy,2,17.40722787,78.46693192,NA,Hyderabad,040-29560561,"AG'S Office Compound, Saifabad, Hyderabad -500004"
+20,HYU2,Unani,1,17.38203735,78.43931734,NA,Hyderabad,040-23531833,"Sharadanagar Colony, Gudimal Kapur, Hyderabad-500028"
+20,VHO1,Homeopathy,1,17.72875996,83.33459217,NA,Hyderabad,0891-2556673,"Door No. 8-5-1, Govt.Mental Care Hospital premises Chinawaltair,Visakhapatnam -530017, Andhra Pradesh"
+21,JB3,Allopathy,4,23.18785507,79.98076009,NA,Jabalpur,0761-2431721,"Block 2 & 5, J-Type Quarter, Vaidyanath Nagar, Ranjhi Main Road,
+Jabalpur-482011, Madhya Pradesh"
+22,JA1,Allopathy,2,26.91864064,75.82113283,NA,Jaipur,0141-2329927,"1st Floor, Chandan Mahal, Chaura Rasta, Jaipur"
+22,JA10,Ayurveda,2,26.87616618,75.80458983,NA,Jaipur,0141-2710021,"A.G.Colony, Bajaj Nagar, Jaipur"
+22,JA3,Allopathy,4,26.87616618,75.80458983,NA,Jaipur,0141-2710084,"A.G.Colony, Bajaj Nagar, Jaipur"
+22,JA4,Allopathy,5,26.9284724,75.78595783,NA,Jaipur,0141-2207708,"D-143/A-2, Kaushalya Path, Basant Marg, Banipark, Jaipur"
+22,JA7,Allopathy,5,26.96646815,75.78496917,NA,Jaipur,0141-2335850,"Custom & Central Excise Colony, Vidhyadhar Nagar, Jaipur"
+22,JA9,Homeopathy,2,26.87616618,75.80458983,NA,Jaipur,0141-2710021,"A.G.Colony, Bajaj Nagar, Jaipur"
+22,JDH1,Allopathy,3,26.27767583,73.01647373,NA,Jaipur,0291-2431340,"CGHS Wellness Center, HPO Building, Station Road, Near Railway Reservation Offie, Jodhpur"
+23,GWL1,Allopathy,3,26.21686732,78.19988354,NA,Kanpur,0751-2920981,"Gate no.2 AGMP colony, Shastri Nagar, Thatipur, Gwalior, M.P., PIN -474011"
+23,KN1,Allopathy,4,26.43538132,80.31727016,NA,Kanpur,0512-2986709,"Plot No.924-A, Block no- W-1, Juhi Kalan, Kanpur-208014"
+23,KN9,Allopathy,7,26.44407054,80.28728617,NA,Kanpur,0512-2283399,"Plot No.8-11,  CGHS Ratan Lal Nagar, Kanpur"
+24,KO11,Allopathy,3,22.59400149,88.2802013,NA,Kolkata,26571526,"Govt. of India Press Colony,Santragachi, Howrah-711321, (Near Jagacha Police Station)"
+24,KO13,Allopathy,7,22.6395112,88.43099928,NA,Kolkata,25119442,"New Quarters,Dum Dum, Kolkata  700052. (Nr. Airport Gate no-1)"
+24,KO14,Allopathy,3,22.61287222,88.40168353,NA,Kolkata,25222137,"P-112, Kalindi Housing Scheme, Kolkata -700089 (Near Kalindi Bus stop)"
+24,KO18,Allopathy,8,22.57134821,88.41665969,NA,Kolkata,23353427,"CGHS POLYCLINIC COMPLEX 
+
+"
+24,KO20,Ayurveda,1,22.57129559,88.41659896,NA,Kolkata,23352801,"IC Block, CGHS Complex Salt Lake, Kolkata -700106 (Near Tank No.14)"
+24,KO21,Homeopathy,3,22.57129559,88.41659896,NA,Kolkata,23352801,"IC Block, CGHS Complex Salt Lake, Kolkata -700106 (Near Tank No.14)"
+24,KO24,Allopathy,3,22.79994395,88.37151913,NA,Kolkata,"033-25616464
+9674003887 (M)","Qtr No. 175,176,177,178 OWL Estate,Ishapore, Metal and Steel Factory, Ministry of Defence, North 24 Paraganas,West Bengal - 743144"
+24,KO3,Allopathy,4,22.52191971,88.36276587,NA,Kolkata,033-24619292,GARIAHAT DOVERLANE
+25,LK5,Allopathy,4,26.83361248,80.9473384,NA,Lucknow,0522-2238841,"12-B Mall Avenue, Lucknow 226001"
+26,SHN2,Allopathy,2,29.95564115,77.54946981,NA,Meerut,NA,"CGHS Wellness Center, Gill Colony, Saharanpur - 247001"
+27,MU11,Allopathy,1,18.97629561,72.83562279,NA,Mumbai,022-023722150,"Khan Mansion, Flat No.1, 15 Victoria Road, Byculla, Mumbai -400027"
+27,MU26,Allopathy,1,19.1289361,72.87526586,NA,Mumbai,022-28365751,"Seepz Qtrs Complex, Qtrs. No. C-1, C-2, Andheri (E), Mumbai 400 096."
+27,MU29,Allopathy,1,18.9398436,72.82774827,NA,Mumbai,022-22004509,"Old CGO Building (PratishthaBhawan), Ground Floor, South Wing, 101,
+M.K. Road, New Marine Lines, Mumbai 400020"
+27,MU7,Allopathy,4,19.01685012,72.85719611,NA,Mumbai,022-24124515,"C.G.S. Qtrs, Flat 226-227, Type-IV, Wadala, Mumbai - 400 031"
+27,MUH2,Homeopathy,1,19.09039535,72.91002343,NA,Mumbai,022-25149229,"Flat No.25, Central Govt. Qrts, Ghatkopar, Mumbai -400086"
+28,NP4,Allopathy,2,21.1511886,79.11854547,NA,Nagpur,0712- 2956036,"Patel Building, Opp Prakash High School, Queta Colony Bus Stop, Lakadganj, Nagpur- 440008"
+28,NP8,Allopathy,6,21.11408112,79.06947688,NA,Nagpur,0712- 2226516,"Laxman Aptt, Beside Sai Mandir, Wardha Road, Nagpur- 440015"
+28,RP3,Ayurveda,1,21.26055266,81.65580337,NA,Nagpur,0771- 2582844,"In front of District hospital, Hanuman mandir Chowk, Pandri, Raipur- 492004"
+29,CPR1,Allopathy,1,25.77962411,84.74538554,NA,Patna,06152-232149,"CGHS W.C., Head Post Office Campus, Sahebganj, Chhapra-841301"
+29,MUZ1,Allopathy,1,26.13396933,85.37809169,NA,Patna,0621-2953269,"Income Tax Campus, Sikandarpur, Muzafferpur"
+30,PU02,Allopathy,4,18.5559237,73.87566527,NA,Pune,020-26685949,"GSI Colony, Phulenagar,Pune-411 006."
+30,PU06,Allopathy,4,18.5599565,73.83773863,NA,Pune,020-25819776,"Bldg No.296, Range Hills Estate, Range Hills, Pune-411 020."
+30,PUA07,Ayurveda,2,,,NA,Pune,,"Ground Floor, Swasthya Sadan, Mukundnagar, Pune-411 037."
+33,TR3,Allopathy,6,8.498841082,76.94734917,NA,Trivandrum,0471-2471143,"O/o CMO I/C,  P S Towers, Tutors Lane, Statue, GPO, Trivandrum 695001"
